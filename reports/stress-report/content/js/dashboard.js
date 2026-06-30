@@ -133,7 +133,7 @@ $(document).ready(function() {
         widgets: ['zebra']
     });
 
-    var data = {"OkPercent": 66.98630136986301, "KoPercent": 33.013698630136986};
+    var data = {"OkPercent": 0.0, "KoPercent": 100.0};
     var dataset = [
         {
             "label" : "FAIL",
@@ -173,7 +173,7 @@ $(document).ready(function() {
     });
 
     // Creates APDEX table
-    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "overall": {"data": [0.6041095890410959, 500, 1500, "Total"], "isController": false}, "titles": ["Apdex", "T (Toleration threshold)", "F (Frustration threshold)", "Label"], "items": [{"data": [0.9925373134328358, 500, 1500, "05 - Logout-0"], "isController": false}, {"data": [0.9701492537313433, 500, 1500, "05 - Logout-1"], "isController": false}, {"data": [0.5066666666666667, 500, 1500, "01 - Home Page"], "isController": false}, {"data": [0.3933333333333333, 500, 1500, "05 - Logout"], "isController": false}, {"data": [0.23333333333333334, 500, 1500, "02 - Login"], "isController": false}, {"data": [0.9246575342465754, 500, 1500, "02 - Login-1"], "isController": false}, {"data": [0.9863013698630136, 500, 1500, "02 - Login-0"], "isController": false}]}, function(index, item){
+    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "overall": {"data": [0.0, 500, 1500, "Total"], "isController": false}, "titles": ["Apdex", "T (Toleration threshold)", "F (Frustration threshold)", "Label"], "items": [{"data": [0.0, 500, 1500, "03 - Account Overview"], "isController": false}, {"data": [0.0, 500, 1500, "01 - Home Page"], "isController": false}, {"data": [0.0, 500, 1500, "05 - Logout"], "isController": false}, {"data": [0.0, 500, 1500, "02 - Login"], "isController": false}, {"data": [0.0, 500, 1500, "04 - Transfer Funds"], "isController": false}]}, function(index, item){
         switch(index){
             case 0:
                 item = item.toFixed(3);
@@ -187,7 +187,7 @@ $(document).ready(function() {
     }, [[0, 0]], 3);
 
     // Create statistics table
-    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "overall": {"data": ["Total", 730, 241, 33.013698630136986, 260.65890410958906, 42, 1085, 222.0, 553.8, 599.2499999999997, 850.2099999999995, 9.229174304967318, 26.714047012686954, 1.9423466005347865], "isController": false}, "titles": ["Label", "#Samples", "FAIL", "Error %", "Average", "Min", "Max", "Median", "90th pct", "95th pct", "99th pct", "Transactions/s", "Received", "Sent"], "items": [{"data": ["05 - Logout-0", 67, 0, 0.0, 226.89552238805965, 195, 501, 205.0, 290.00000000000006, 380.7999999999995, 501.0, 0.9125081717149706, 0.35021065574607757, 0.14970837192198735], "isController": false}, {"data": ["05 - Logout-1", 67, 2, 2.985074626865672, 218.80597014925368, 45, 375, 209.0, 273.0, 347.39999999999986, 375.0, 0.9123714849867229, 3.99021562436168, 0.16126878787362975], "isController": false}, {"data": ["01 - Home Page", 150, 71, 47.333333333333336, 202.37999999999985, 43, 1085, 204.5, 357.6, 465.1999999999998, 958.0100000000023, 2.019712392955243, 6.860408103927667, 0.22485079374697042], "isController": false}, {"data": ["05 - Logout", 150, 85, 56.666666666666664, 237.85333333333315, 42, 708, 124.0, 487.70000000000016, 544.9499999999998, 684.0300000000004, 2.037102425509955, 4.848210936014612, 0.4451387096993237], "isController": false}, {"data": ["02 - Login", 150, 80, 53.333333333333336, 330.43999999999994, 43, 912, 166.5, 678.3000000000001, 833.5499999999997, 910.47, 2.061458963223572, 6.619041417287395, 0.6777180551165412], "isController": false}, {"data": ["02 - Login-1", 73, 3, 4.109589041095891, 310.73972602739735, 43, 585, 284.0, 448.00000000000017, 542.8, 585.0, 1.0073550719637903, 5.862258855755034, 0.16723668186898866], "isController": false}, {"data": ["02 - Login-0", 73, 0, 0.0, 303.2054794520549, 264, 564, 282.0, 354.4000000000001, 439.09999999999974, 564.0, 1.0071743929359824, 0.29408705418736203, 0.2744156793253311], "isController": false}]}, function(index, item){
+    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "overall": {"data": ["Total", 300, 300, 100.0, 82.66333333333334, 56, 713, 60.0, 114.90000000000003, 199.79999999999995, 590.7000000000003, 3.3100526298368145, 1.5252532879856124, 0.5857241567640926], "isController": false}, "titles": ["Label", "#Samples", "FAIL", "Error %", "Average", "Min", "Max", "Median", "90th pct", "95th pct", "99th pct", "Transactions/s", "Received", "Sent"], "items": [{"data": ["03 - Account Overview", 60, 60, 100.0, 70.58333333333333, 56, 464, 59.0, 67.8, 113.85, 464.0, 0.7355194606190623, 0.33893273061599755, 0.1264174072939013], "isController": false}, {"data": ["01 - Home Page", 60, 60, 100.0, 130.96666666666667, 56, 605, 62.5, 208.9, 527.4499999999994, 605.0, 0.7230483719360825, 0.3332094987467162, 0.08049561953194669], "isController": false}, {"data": ["05 - Logout", 60, 60, 100.0, 75.2, 56, 713, 60.0, 66.8, 153.5999999999998, 713.0, 0.7313862206836024, 0.3369685831525184, 0.08213810095567799], "isController": false}, {"data": ["02 - Login", 60, 60, 100.0, 60.300000000000004, 56, 72, 59.5, 65.0, 67.89999999999999, 72.0, 0.7401285356556921, 0.3410566260007155, 0.19804220582974577], "isController": false}, {"data": ["04 - Transfer Funds", 60, 60, 100.0, 76.26666666666667, 57, 591, 60.0, 82.6, 181.49999999999972, 591.0, 0.7309674354007529, 0.33682322694711453, 0.16204063265231533], "isController": false}]}, function(index, item){
         switch(index){
             // Errors pct
             case 3:
@@ -217,7 +217,7 @@ $(document).ready(function() {
     }, [[0, 0]], 0, summaryTableHeader);
 
     // Create error table
-    createTable($("#errorsTable"), {"supportsControllersDiscrimination": false, "titles": ["Type of error", "Number of errors", "% in errors", "% in all samples"], "items": [{"data": ["429/Too Many Requests", 241, 100.0, 33.013698630136986], "isController": false}]}, function(index, item){
+    createTable($("#errorsTable"), {"supportsControllersDiscrimination": false, "titles": ["Type of error", "Number of errors", "% in errors", "% in all samples"], "items": [{"data": ["429/Too Many Requests", 300, 100.0, 100.0], "isController": false}]}, function(index, item){
         switch(index){
             case 2:
             case 3:
@@ -228,7 +228,7 @@ $(document).ready(function() {
     }, [[1, 1]]);
 
         // Create top5 errors by sampler
-    createTable($("#top5ErrorsBySamplerTable"), {"supportsControllersDiscrimination": false, "overall": {"data": ["Total", 730, 241, "429/Too Many Requests", 241, "", "", "", "", "", "", "", ""], "isController": false}, "titles": ["Sample", "#Samples", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors"], "items": [{"data": [], "isController": false}, {"data": ["05 - Logout-1", 67, 2, "429/Too Many Requests", 2, "", "", "", "", "", "", "", ""], "isController": false}, {"data": ["01 - Home Page", 150, 71, "429/Too Many Requests", 71, "", "", "", "", "", "", "", ""], "isController": false}, {"data": ["05 - Logout", 150, 85, "429/Too Many Requests", 85, "", "", "", "", "", "", "", ""], "isController": false}, {"data": ["02 - Login", 150, 80, "429/Too Many Requests", 80, "", "", "", "", "", "", "", ""], "isController": false}, {"data": ["02 - Login-1", 73, 3, "429/Too Many Requests", 3, "", "", "", "", "", "", "", ""], "isController": false}, {"data": [], "isController": false}]}, function(index, item){
+    createTable($("#top5ErrorsBySamplerTable"), {"supportsControllersDiscrimination": false, "overall": {"data": ["Total", 300, 300, "429/Too Many Requests", 300, "", "", "", "", "", "", "", ""], "isController": false}, "titles": ["Sample", "#Samples", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors"], "items": [{"data": ["03 - Account Overview", 60, 60, "429/Too Many Requests", 60, "", "", "", "", "", "", "", ""], "isController": false}, {"data": ["01 - Home Page", 60, 60, "429/Too Many Requests", 60, "", "", "", "", "", "", "", ""], "isController": false}, {"data": ["05 - Logout", 60, 60, "429/Too Many Requests", 60, "", "", "", "", "", "", "", ""], "isController": false}, {"data": ["02 - Login", 60, 60, "429/Too Many Requests", 60, "", "", "", "", "", "", "", ""], "isController": false}, {"data": ["04 - Transfer Funds", 60, 60, "429/Too Many Requests", 60, "", "", "", "", "", "", "", ""], "isController": false}]}, function(index, item){
         return item;
     }, [[0, 0]], 0);
 
