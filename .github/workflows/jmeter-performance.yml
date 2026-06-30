@@ -64,4 +64,4 @@ jobs:
           name: jmeter-${{ github.event.inputs.test_type }}-results
           path: |
             results/
-            reports/
+            reports/m
