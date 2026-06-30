@@ -32,10 +32,14 @@ jobs:
           tar -xzf apache-jmeter-5.6.3.tgz
           echo "$PWD/apache-jmeter-5.6.3/bin" >> $GITHUB_PATH
 
-      - name: Prepare output folders
+      - name: Clean old generated reports
         run: |
-          mkdir -p results
+          rm -rf reports/load-report
+          rm -rf reports/stress-report
+          rm -f results/load-results.jtl
+          rm -f results/stress-results.jtl
           mkdir -p reports
+          mkdir -p results
 
       - name: Run Load Test
         if: ${{ github.event.inputs.test_type == 'load' }}
@@ -54,6 +58,7 @@ jobs:
             -e -o reports/stress-report
 
       - name: Upload JMeter Results
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: jmeter-${{ github.event.inputs.test_type }}-results
