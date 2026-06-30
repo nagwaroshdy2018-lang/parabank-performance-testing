@@ -1,0 +1,731 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1782834382852,1085,01 - Home Page,200,OK,Bank Users 1-1,text,true,,6180,114,3,3,https://parabank.parasoft.com/parabank/index.htm,1081,0,477
+1782834383134,836,01 - Home Page,200,OK,Bank Users 1-2,text,true,,6180,114,3,3,https://parabank.parasoft.com/parabank/index.htm,831,0,241
+1782834384625,635,01 - Home Page,200,OK,Bank Users 1-3,text,true,,6180,114,4,4,https://parabank.parasoft.com/parabank/index.htm,634,0,121
+1782834386006,584,02 - Login,200,OK,Bank Users 1-1,text,true,,6493,449,5,5,https://parabank.parasoft.com/parabank/overview.htm,296,0,0
+1782834386006,296,02 - Login-0,302,Found,Bank Users 1-1,,true,,299,279,5,5,https://parabank.parasoft.com/parabank/login.htm,296,0,0
+1782834386303,287,02 - Login-1,200,OK,Bank Users 1-1,text,true,,6194,170,5,5,https://parabank.parasoft.com/parabank/overview.htm,282,0,0
+1782834386097,574,02 - Login,200,OK,Bank Users 1-2,text,true,,6493,449,5,5,https://parabank.parasoft.com/parabank/overview.htm,294,0,0
+1782834386097,294,02 - Login-0,302,Found,Bank Users 1-2,,true,,299,279,5,5,https://parabank.parasoft.com/parabank/login.htm,294,0,0
+1782834386391,280,02 - Login-1,200,OK,Bank Users 1-2,text,true,,6194,170,5,5,https://parabank.parasoft.com/parabank/overview.htm,278,0,0
+1782834386535,649,01 - Home Page,200,OK,Bank Users 1-4,text,true,,6180,114,6,6,https://parabank.parasoft.com/parabank/index.htm,648,0,106
+1782834386996,627,02 - Login,200,OK,Bank Users 1-3,text,true,,6493,449,6,6,https://parabank.parasoft.com/parabank/overview.htm,349,0,0
+1782834386996,349,02 - Login-0,302,Found,Bank Users 1-3,,true,,299,279,6,6,https://parabank.parasoft.com/parabank/login.htm,349,0,0
+1782834387346,277,02 - Login-1,200,OK,Bank Users 1-3,text,true,,6194,170,6,6,https://parabank.parasoft.com/parabank/overview.htm,273,0,0
+1782834388315,405,05 - Logout,200,OK,Bank Users 1-1,text,true,,4999,349,7,7,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,199,0,0
+1782834388315,199,05 - Logout-0,302,Found,Bank Users 1-1,,true,,393,168,7,7,https://parabank.parasoft.com/parabank/logout.htm,199,0,0
+1782834388514,206,05 - Logout-1,200,OK,Bank Users 1-1,text,true,,4606,181,7,7,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,205,0,0
+1782834388484,406,05 - Logout,200,OK,Bank Users 1-2,text,true,,4994,349,7,7,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,202,0,0
+1782834388484,202,05 - Logout-0,302,Found,Bank Users 1-2,,true,,393,168,7,7,https://parabank.parasoft.com/parabank/logout.htm,202,0,0
+1782834388686,204,05 - Logout-1,200,OK,Bank Users 1-2,text,true,,4601,181,7,7,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,201,0,0
+1782834388252,650,01 - Home Page,200,OK,Bank Users 1-5,text,true,,6180,114,7,7,https://parabank.parasoft.com/parabank/index.htm,646,0,120
+1782834388657,322,01 - Home Page,200,OK,Bank Users 1-6,text,true,,6180,114,7,7,https://parabank.parasoft.com/parabank/index.htm,318,0,112
+1782834389020,323,01 - Home Page,200,OK,Bank Users 1-7,text,true,,6180,114,8,8,https://parabank.parasoft.com/parabank/index.htm,323,0,108
+1782834388982,578,02 - Login,200,OK,Bank Users 1-4,text,true,,6493,449,8,8,https://parabank.parasoft.com/parabank/overview.htm,292,0,0
+1782834388982,292,02 - Login-0,302,Found,Bank Users 1-4,,true,,299,279,8,8,https://parabank.parasoft.com/parabank/login.htm,292,0,0
+1782834389274,286,02 - Login-1,200,OK,Bank Users 1-4,text,true,,6194,170,8,8,https://parabank.parasoft.com/parabank/overview.htm,285,0,0
+1782834389380,412,05 - Logout,200,OK,Bank Users 1-3,text,true,,4994,349,8,8,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,203,0,0
+1782834389380,203,05 - Logout-0,302,Found,Bank Users 1-3,,true,,393,168,8,8,https://parabank.parasoft.com/parabank/logout.htm,203,0,0
+1782834389583,209,05 - Logout-1,200,OK,Bank Users 1-3,text,true,,4601,181,8,8,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,207,0,0
+1782834390172,328,01 - Home Page,200,OK,Bank Users 1-8,text,true,,6180,114,9,9,https://parabank.parasoft.com/parabank/index.htm,328,0,112
+1782834390418,555,02 - Login,200,OK,Bank Users 1-6,text,true,,6493,449,9,9,https://parabank.parasoft.com/parabank/overview.htm,269,0,0
+1782834390418,269,02 - Login-0,302,Found,Bank Users 1-6,,true,,299,279,9,9,https://parabank.parasoft.com/parabank/login.htm,269,0,0
+1782834390687,286,02 - Login-1,200,OK,Bank Users 1-6,text,true,,6194,170,9,9,https://parabank.parasoft.com/parabank/overview.htm,285,0,0
+1782834390823,206,01 - Home Page,200,OK,Bank Users 1-2,text,true,,6180,114,9,9,https://parabank.parasoft.com/parabank/index.htm,201,0,0
+1782834390682,426,05 - Logout,200,OK,Bank Users 1-4,text,true,,4999,349,9,9,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,214,0,0
+1782834390682,214,05 - Logout-0,302,Found,Bank Users 1-4,,true,,393,168,9,9,https://parabank.parasoft.com/parabank/logout.htm,214,0,0
+1782834390897,211,05 - Logout-1,200,OK,Bank Users 1-4,text,true,,4606,181,9,9,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,211,0,0
+1782834391174,207,01 - Home Page,200,OK,Bank Users 1-1,text,true,,6180,114,9,9,https://parabank.parasoft.com/parabank/index.htm,206,0,0
+1782834391128,631,02 - Login,200,OK,Bank Users 1-5,text,true,,6493,449,10,10,https://parabank.parasoft.com/parabank/overview.htm,284,0,0
+1782834391128,284,02 - Login-0,302,Found,Bank Users 1-5,,true,,299,279,10,10,https://parabank.parasoft.com/parabank/login.htm,284,0,0
+1782834391412,347,02 - Login-1,200,OK,Bank Users 1-5,text,true,,6194,170,10,10,https://parabank.parasoft.com/parabank/overview.htm,338,0,0
+1782834391388,630,02 - Login,200,OK,Bank Users 1-7,text,true,,6493,449,10,10,https://parabank.parasoft.com/parabank/overview.htm,347,0,0
+1782834391388,347,02 - Login-0,302,Found,Bank Users 1-7,,true,,299,279,10,10,https://parabank.parasoft.com/parabank/login.htm,347,0,0
+1782834391735,283,02 - Login-1,200,OK,Bank Users 1-7,text,true,,6194,170,10,10,https://parabank.parasoft.com/parabank/overview.htm,281,0,0
+1782834391748,354,01 - Home Page,200,OK,Bank Users 1-9,text,true,,6180,114,10,10,https://parabank.parasoft.com/parabank/index.htm,353,0,130
+1782834392366,215,01 - Home Page,200,OK,Bank Users 1-4,text,true,,6180,114,10,10,https://parabank.parasoft.com/parabank/index.htm,211,0,0
+1782834392328,586,02 - Login,200,OK,Bank Users 1-2,text,true,,6493,449,11,11,https://parabank.parasoft.com/parabank/overview.htm,275,0,0
+1782834392328,275,02 - Login-0,302,Found,Bank Users 1-2,,true,,299,279,11,11,https://parabank.parasoft.com/parabank/login.htm,275,0,0
+1782834392603,311,02 - Login-1,200,OK,Bank Users 1-2,text,true,,6194,170,11,11,https://parabank.parasoft.com/parabank/overview.htm,298,0,0
+1782834392676,238,01 - Home Page,200,OK,Bank Users 1-3,text,true,,6180,114,11,11,https://parabank.parasoft.com/parabank/index.htm,225,0,0
+1782834392438,581,02 - Login,200,OK,Bank Users 1-1,text,true,,6493,449,11,11,https://parabank.parasoft.com/parabank/overview.htm,269,0,0
+1782834392438,269,02 - Login-0,302,Found,Bank Users 1-1,,true,,299,279,11,11,https://parabank.parasoft.com/parabank/login.htm,269,0,0
+1782834392707,312,02 - Login-1,200,OK,Bank Users 1-1,text,true,,6194,170,11,11,https://parabank.parasoft.com/parabank/overview.htm,307,0,0
+1782834392501,556,02 - Login,200,OK,Bank Users 1-8,text,true,,6493,449,11,11,https://parabank.parasoft.com/parabank/overview.htm,276,0,0
+1782834392501,277,02 - Login-0,302,Found,Bank Users 1-8,,true,,299,279,11,11,https://parabank.parasoft.com/parabank/login.htm,276,0,0
+1782834392778,279,02 - Login-1,200,OK,Bank Users 1-8,text,true,,6194,170,11,11,https://parabank.parasoft.com/parabank/overview.htm,279,0,0
+1782834392820,434,05 - Logout,200,OK,Bank Users 1-6,text,true,,4994,349,11,11,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,232,0,0
+1782834392820,232,05 - Logout-0,302,Found,Bank Users 1-6,,true,,393,168,11,11,https://parabank.parasoft.com/parabank/logout.htm,232,0,0
+1782834393052,202,05 - Logout-1,200,OK,Bank Users 1-6,text,true,,4601,181,11,11,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,200,0,0
+1782834392973,358,01 - Home Page,200,OK,Bank Users 1-10,text,true,,6180,114,11,11,https://parabank.parasoft.com/parabank/index.htm,354,0,148
+1782834393678,568,02 - Login,200,OK,Bank Users 1-9,text,true,,6493,449,12,12,https://parabank.parasoft.com/parabank/overview.htm,284,0,0
+1782834393678,284,02 - Login-0,302,Found,Bank Users 1-9,,true,,299,279,12,12,https://parabank.parasoft.com/parabank/login.htm,284,0,0
+1782834393962,284,02 - Login-1,200,OK,Bank Users 1-9,text,true,,6194,170,12,12,https://parabank.parasoft.com/parabank/overview.htm,284,0,0
+1782834394178,415,05 - Logout,200,OK,Bank Users 1-2,text,true,,4994,349,12,12,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,205,0,0
+1782834394178,205,05 - Logout-0,302,Found,Bank Users 1-2,,true,,393,168,12,12,https://parabank.parasoft.com/parabank/logout.htm,205,0,0
+1782834394383,210,05 - Logout-1,200,OK,Bank Users 1-2,text,true,,4601,181,12,12,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,207,0,0
+1782834394346,426,05 - Logout,200,OK,Bank Users 1-5,text,true,,4994,349,12,12,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,212,0,0
+1782834394346,212,05 - Logout-0,302,Found,Bank Users 1-5,,true,,393,168,12,12,https://parabank.parasoft.com/parabank/logout.htm,212,0,0
+1782834394558,214,05 - Logout-1,200,OK,Bank Users 1-5,text,true,,4601,181,12,12,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,211,0,0
+1782834394547,425,05 - Logout,200,OK,Bank Users 1-7,text,true,,4994,349,12,12,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,202,0,0
+1782834394547,202,05 - Logout-0,302,Found,Bank Users 1-7,,true,,393,168,12,12,https://parabank.parasoft.com/parabank/logout.htm,202,0,0
+1782834394749,223,05 - Logout-1,200,OK,Bank Users 1-7,text,true,,4601,181,12,12,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,205,0,0
+1782834394764,242,01 - Home Page,200,OK,Bank Users 1-6,text,true,,6180,114,12,12,https://parabank.parasoft.com/parabank/index.htm,238,0,0
+1782834394693,412,05 - Logout,200,OK,Bank Users 1-8,text,true,,4994,349,12,12,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,205,0,0
+1782834394693,205,05 - Logout-0,302,Found,Bank Users 1-8,,true,,393,168,12,12,https://parabank.parasoft.com/parabank/logout.htm,205,0,0
+1782834394898,207,05 - Logout-1,200,OK,Bank Users 1-8,text,true,,4601,181,12,12,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,206,0,0
+1782834394552,554,02 - Login,200,OK,Bank Users 1-10,text,true,,6493,449,12,12,https://parabank.parasoft.com/parabank/overview.htm,268,0,0
+1782834394552,268,02 - Login-0,302,Found,Bank Users 1-10,,true,,299,279,12,12,https://parabank.parasoft.com/parabank/login.htm,268,0,0
+1782834394821,285,02 - Login-1,200,OK,Bank Users 1-10,text,true,,6194,170,12,12,https://parabank.parasoft.com/parabank/overview.htm,280,0,0
+1782834394844,338,01 - Home Page,200,OK,Bank Users 1-11,text,true,,6180,114,12,12,https://parabank.parasoft.com/parabank/index.htm,337,0,113
+1782834394351,844,02 - Login,200,OK,Bank Users 1-3,text,true,,6493,449,12,12,https://parabank.parasoft.com/parabank/overview.htm,564,0,0
+1782834394351,564,02 - Login-0,302,Found,Bank Users 1-3,,true,,299,279,12,12,https://parabank.parasoft.com/parabank/login.htm,564,0,0
+1782834394915,280,02 - Login-1,200,OK,Bank Users 1-3,text,true,,6194,170,12,12,https://parabank.parasoft.com/parabank/overview.htm,275,0,0
+1782834395253,317,01 - Home Page,200,OK,Bank Users 1-12,text,true,,6180,114,13,13,https://parabank.parasoft.com/parabank/index.htm,316,0,96
+1782834395504,429,05 - Logout,200,OK,Bank Users 1-9,text,true,,4999,349,13,13,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,209,0,0
+1782834395504,209,05 - Logout-0,302,Found,Bank Users 1-9,,true,,393,168,13,13,https://parabank.parasoft.com/parabank/logout.htm,209,0,0
+1782834395713,220,05 - Logout-1,200,OK,Bank Users 1-9,text,true,,4606,181,13,13,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,219,0,0
+1782834395497,558,02 - Login,200,OK,Bank Users 1-4,text,true,,6493,449,13,13,https://parabank.parasoft.com/parabank/overview.htm,276,0,0
+1782834395497,276,02 - Login-0,302,Found,Bank Users 1-4,,true,,299,279,13,13,https://parabank.parasoft.com/parabank/login.htm,276,0,0
+1782834395773,282,02 - Login-1,200,OK,Bank Users 1-4,text,true,,6194,170,13,13,https://parabank.parasoft.com/parabank/overview.htm,276,0,0
+1782834396092,213,01 - Home Page,200,OK,Bank Users 1-5,text,true,,6180,114,13,13,https://parabank.parasoft.com/parabank/index.htm,209,0,0
+1782834396009,404,05 - Logout,200,OK,Bank Users 1-1,text,true,,4994,349,13,13,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,197,0,0
+1782834396009,197,05 - Logout-0,302,Found,Bank Users 1-1,,true,,393,168,13,13,https://parabank.parasoft.com/parabank/logout.htm,197,0,0
+1782834396206,207,05 - Logout-1,200,OK,Bank Users 1-1,text,true,,4601,181,13,13,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,206,0,0
+1782834396356,513,01 - Home Page,200,OK,Bank Users 1-13,text,true,,6180,114,14,14,https://parabank.parasoft.com/parabank/index.htm,513,0,101
+1782834396667,204,01 - Home Page,200,OK,Bank Users 1-2,text,true,,6180,114,14,14,https://parabank.parasoft.com/parabank/index.htm,201,0,0
+1782834396973,213,01 - Home Page,200,OK,Bank Users 1-8,text,true,,6180,114,14,14,https://parabank.parasoft.com/parabank/index.htm,212,0,0
+1782834396692,560,02 - Login,200,OK,Bank Users 1-12,text,true,,6493,449,14,14,https://parabank.parasoft.com/parabank/overview.htm,270,0,0
+1782834396692,270,02 - Login-0,302,Found,Bank Users 1-12,,true,,299,279,14,14,https://parabank.parasoft.com/parabank/login.htm,270,0,0
+1782834396962,290,02 - Login-1,200,OK,Bank Users 1-12,text,true,,6194,170,14,14,https://parabank.parasoft.com/parabank/overview.htm,289,0,0
+1782834396746,555,02 - Login,200,OK,Bank Users 1-6,text,true,,6493,449,14,14,https://parabank.parasoft.com/parabank/overview.htm,276,0,0
+1782834396746,276,02 - Login-0,302,Found,Bank Users 1-6,,true,,299,279,14,14,https://parabank.parasoft.com/parabank/login.htm,276,0,0
+1782834397022,279,02 - Login-1,200,OK,Bank Users 1-6,text,true,,6194,170,14,14,https://parabank.parasoft.com/parabank/overview.htm,275,0,0
+1782834396909,410,05 - Logout,200,OK,Bank Users 1-3,text,true,,4994,349,14,14,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,201,0,0
+1782834396909,201,05 - Logout-0,302,Found,Bank Users 1-3,,true,,393,168,14,14,https://parabank.parasoft.com/parabank/logout.htm,201,0,0
+1782834397110,209,05 - Logout-1,200,OK,Bank Users 1-3,text,true,,4601,181,14,14,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,208,0,0
+1782834397180,494,05 - Logout,200,OK,Bank Users 1-10,text,true,,4994,349,14,14,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,285,0,0
+1782834397180,285,05 - Logout-0,302,Found,Bank Users 1-10,,true,,393,168,14,14,https://parabank.parasoft.com/parabank/logout.htm,285,0,0
+1782834397465,209,05 - Logout-1,200,OK,Bank Users 1-10,text,true,,4601,181,14,14,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,205,0,0
+1782834397790,204,01 - Home Page,200,OK,Bank Users 1-7,text,true,,6185,114,15,15,https://parabank.parasoft.com/parabank/index.htm,203,0,0
+1782834397613,455,05 - Logout,200,OK,Bank Users 1-4,text,true,,4994,349,15,15,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,203,0,0
+1782834397613,203,05 - Logout-0,302,Found,Bank Users 1-4,,true,,393,168,15,15,https://parabank.parasoft.com/parabank/logout.htm,203,0,0
+1782834397816,252,05 - Logout-1,200,OK,Bank Users 1-4,text,true,,4601,181,15,15,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,251,0,0
+1782834397689,554,02 - Login,200,OK,Bank Users 1-11,text,true,,6493,449,15,15,https://parabank.parasoft.com/parabank/overview.htm,273,0,0
+1782834397689,273,02 - Login-0,302,Found,Bank Users 1-11,,true,,299,279,15,15,https://parabank.parasoft.com/parabank/login.htm,273,0,0
+1782834397962,281,02 - Login-1,200,OK,Bank Users 1-11,text,true,,6194,170,15,15,https://parabank.parasoft.com/parabank/overview.htm,281,0,0
+1782834398030,222,01 - Home Page,200,OK,Bank Users 1-9,text,true,,6180,114,15,15,https://parabank.parasoft.com/parabank/index.htm,222,0,0
+1782834397987,626,02 - Login,200,OK,Bank Users 1-5,text,true,,6493,449,15,15,https://parabank.parasoft.com/parabank/overview.htm,317,0,0
+1782834397987,317,02 - Login-0,302,Found,Bank Users 1-5,,true,,299,279,15,15,https://parabank.parasoft.com/parabank/login.htm,317,0,0
+1782834398304,309,02 - Login-1,200,OK,Bank Users 1-5,text,true,,6194,170,15,15,https://parabank.parasoft.com/parabank/overview.htm,305,0,0
+1782834398481,307,01 - Home Page,200,OK,Bank Users 1-14,text,true,,6180,114,15,15,https://parabank.parasoft.com/parabank/index.htm,307,0,97
+1782834398748,393,01 - Home Page,200,OK,Bank Users 1-3,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,393,0,0
+1782834398233,909,02 - Login,200,OK,Bank Users 1-8,text,true,,6493,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,340,0,0
+1782834398233,340,02 - Login-0,302,Found,Bank Users 1-8,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,340,0,0
+1782834398574,568,02 - Login-1,200,OK,Bank Users 1-8,text,true,,6194,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,567,0,0
+1782834398982,422,01 - Home Page,200,OK,Bank Users 1-15,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,421,0,212
+1782834399270,205,01 - Home Page,200,OK,Bank Users 1-1,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,205,0,0
+1782834398907,612,02 - Login,200,OK,Bank Users 1-13,text,true,,6493,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,270,0,0
+1782834398907,270,02 - Login-0,302,Found,Bank Users 1-13,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,270,0,0
+1782834399177,342,02 - Login-1,200,OK,Bank Users 1-13,text,true,,6194,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,342,0,0
+1782834399374,207,01 - Home Page,200,OK,Bank Users 1-10,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,202,0,0
+1782834399438,209,01 - Home Page,200,OK,Bank Users 1-4,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,205,0,0
+1782834399261,491,05 - Logout,200,OK,Bank Users 1-6,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,284,0,0
+1782834399261,284,05 - Logout-0,302,Found,Bank Users 1-6,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,284,0,0
+1782834399545,207,05 - Logout-1,200,OK,Bank Users 1-6,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,205,0,0
+1782834399319,556,02 - Login,200,OK,Bank Users 1-2,text,true,,6493,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,269,0,0
+1782834399319,269,02 - Login-0,302,Found,Bank Users 1-2,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,269,0,0
+1782834399589,286,02 - Login-1,200,OK,Bank Users 1-2,text,true,,6194,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,276,0,0
+1782834399588,400,05 - Logout,200,OK,Bank Users 1-12,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,199,0,0
+1782834399588,199,05 - Logout-0,302,Found,Bank Users 1-12,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,199,0,0
+1782834399787,201,05 - Logout-1,200,OK,Bank Users 1-12,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,201,0,0
+1782834399668,417,05 - Logout,200,OK,Bank Users 1-11,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,207,0,0
+1782834399668,207,05 - Logout-0,302,Found,Bank Users 1-11,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,207,0,0
+1782834399876,209,05 - Logout-1,200,OK,Bank Users 1-11,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,208,0,0
+1782834400011,607,02 - Login,200,OK,Bank Users 1-9,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,279,0,0
+1782834400011,279,02 - Login-0,302,Found,Bank Users 1-9,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,279,0,0
+1782834400290,328,02 - Login-1,200,OK,Bank Users 1-9,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,322,0,0
+1782834400303,597,02 - Login,200,OK,Bank Users 1-14,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,290,0,0
+1782834400303,290,02 - Login-0,302,Found,Bank Users 1-14,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,290,0,0
+1782834400593,307,02 - Login-1,200,OK,Bank Users 1-14,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,307,0,0
+1782834400669,307,01 - Home Page,200,OK,Bank Users 1-16,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,307,0,95
+1782834400504,627,02 - Login,200,OK,Bank Users 1-3,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,299,0,0
+1782834400504,299,02 - Login-0,302,Found,Bank Users 1-3,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,299,0,0
+1782834400803,328,02 - Login-1,200,OK,Bank Users 1-3,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,326,0,0
+1782834400653,564,02 - Login,200,OK,Bank Users 1-7,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,287,0,0
+1782834400653,287,02 - Login-0,302,Found,Bank Users 1-7,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,287,0,0
+1782834400940,277,02 - Login-1,200,OK,Bank Users 1-7,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,276,0,0
+1782834400624,663,02 - Login,200,OK,Bank Users 1-10,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,319,0,0
+1782834400624,319,02 - Login-0,302,Found,Bank Users 1-10,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,319,0,0
+1782834400943,344,02 - Login-1,200,OK,Bank Users 1-10,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,341,0,0
+1782834400962,405,05 - Logout,200,OK,Bank Users 1-13,text,true,,4994,349,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,200,0,0
+1782834400962,200,05 - Logout-0,302,Found,Bank Users 1-13,,true,,393,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,200,0,0
+1782834401162,205,05 - Logout-1,200,OK,Bank Users 1-13,text,true,,4601,181,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,205,0,0
+1782834400911,540,05 - Logout,200,OK,Bank Users 1-5,text,true,,4994,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,267,0,0
+1782834400911,267,05 - Logout-0,302,Found,Bank Users 1-5,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,267,0,0
+1782834401178,273,05 - Logout-1,200,OK,Bank Users 1-5,text,true,,4601,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,273,0,0
+1782834401488,203,01 - Home Page,200,OK,Bank Users 1-12,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,202,0,0
+1782834401503,219,01 - Home Page,200,OK,Bank Users 1-11,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,218,0,0
+1782834401508,270,01 - Home Page,200,OK,Bank Users 1-6,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,266,0,0
+1782834401312,532,05 - Logout,200,OK,Bank Users 1-8,text,true,,4994,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,201,0,0
+1782834401312,201,05 - Logout-0,302,Found,Bank Users 1-8,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,201,0,0
+1782834401514,330,05 - Logout-1,200,OK,Bank Users 1-8,text,true,,4601,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,330,0,0
+1782834401722,559,02 - Login,200,OK,Bank Users 1-15,text,true,,6498,449,18,18,https://parabank.parasoft.com/parabank/overview.htm,278,0,0
+1782834401722,278,02 - Login-0,302,Found,Bank Users 1-15,,true,,299,279,18,18,https://parabank.parasoft.com/parabank/login.htm,278,0,0
+1782834402001,280,02 - Login-1,200,OK,Bank Users 1-15,text,true,,6199,170,18,18,https://parabank.parasoft.com/parabank/overview.htm,278,0,0
+1782834401801,535,05 - Logout,200,OK,Bank Users 1-2,text,true,,4994,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,261,0,0
+1782834401801,261,05 - Logout-0,302,Found,Bank Users 1-2,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,261,0,0
+1782834402063,273,05 - Logout-1,200,OK,Bank Users 1-2,text,true,,4601,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,273,0,0
+1782834402032,751,02 - Login,200,OK,Bank Users 1-1,text,true,,6493,449,18,18,https://parabank.parasoft.com/parabank/overview.htm,335,0,0
+1782834402032,335,02 - Login-0,302,Found,Bank Users 1-1,,true,,299,279,18,18,https://parabank.parasoft.com/parabank/login.htm,335,0,0
+1782834402368,415,02 - Login-1,200,OK,Bank Users 1-1,text,true,,6194,170,18,18,https://parabank.parasoft.com/parabank/overview.htm,410,0,0
+1782834402479,405,05 - Logout,200,OK,Bank Users 1-7,text,true,,4994,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,199,0,0
+1782834402479,199,05 - Logout-0,302,Found,Bank Users 1-7,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,199,0,0
+1782834402678,206,05 - Logout-1,200,OK,Bank Users 1-7,text,true,,4601,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,205,0,0
+1782834402302,626,05 - Logout,200,OK,Bank Users 1-9,text,true,,4994,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,266,0,0
+1782834402302,266,05 - Logout-0,302,Found,Bank Users 1-9,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,266,0,0
+1782834402568,360,05 - Logout-1,200,OK,Bank Users 1-9,text,true,,4601,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,359,0,0
+1782834402646,315,01 - Home Page,200,OK,Bank Users 1-17,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,311,0,105
+1782834402666,710,02 - Login,200,OK,Bank Users 1-16,text,true,,6493,449,18,18,https://parabank.parasoft.com/parabank/overview.htm,274,0,0
+1782834402666,274,02 - Login-0,302,Found,Bank Users 1-16,,true,,299,279,18,18,https://parabank.parasoft.com/parabank/login.htm,274,0,0
+1782834402940,436,02 - Login-1,200,OK,Bank Users 1-16,text,true,,6194,170,18,18,https://parabank.parasoft.com/parabank/overview.htm,435,0,0
+1782834402520,912,02 - Login,200,OK,Bank Users 1-4,text,true,,6498,449,18,18,https://parabank.parasoft.com/parabank/overview.htm,413,0,0
+1782834402520,413,02 - Login-0,302,Found,Bank Users 1-4,,true,,299,279,18,18,https://parabank.parasoft.com/parabank/login.htm,413,0,0
+1782834402933,499,02 - Login-1,200,OK,Bank Users 1-4,text,true,,6199,170,18,18,https://parabank.parasoft.com/parabank/overview.htm,499,0,0
+1782834403330,204,01 - Home Page,200,OK,Bank Users 1-13,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,201,0,0
+1782834402839,708,05 - Logout,200,OK,Bank Users 1-10,text,true,,4994,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,416,0,0
+1782834402839,416,05 - Logout-0,302,Found,Bank Users 1-10,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,416,0,0
+1782834403255,292,05 - Logout-1,200,OK,Bank Users 1-10,text,true,,4601,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,289,0,0
+1782834403166,579,05 - Logout,200,OK,Bank Users 1-3,text,true,,4994,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,325,0,0
+1782834403166,325,05 - Logout-0,302,Found,Bank Users 1-3,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,325,0,0
+1782834403491,254,05 - Logout-1,200,OK,Bank Users 1-3,text,true,,4601,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,254,0,0
+1782834403505,321,01 - Home Page,200,OK,Bank Users 1-18,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,321,0,109
+1782834403740,226,01 - Home Page,200,OK,Bank Users 1-5,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,225,0,0
+1782834403827,423,05 - Logout,200,OK,Bank Users 1-14,text,true,,4999,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,201,0,0
+1782834403827,201,05 - Logout-0,302,Found,Bank Users 1-14,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,201,0,0
+1782834404028,222,05 - Logout-1,200,OK,Bank Users 1-14,text,true,,4606,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,222,0,0
+1782834404220,232,01 - Home Page,200,OK,Bank Users 1-8,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,231,0,0
+1782834404090,458,05 - Logout,200,OK,Bank Users 1-15,text,true,,4994,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,195,0,0
+1782834404090,195,05 - Logout-0,302,Found,Bank Users 1-15,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,195,0,0
+1782834404285,263,05 - Logout-1,200,OK,Bank Users 1-15,text,true,,4601,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,260,0,0
+1782834404338,331,01 - Home Page,200,OK,Bank Users 1-19,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,331,0,120
+1782834404019,818,02 - Login,200,OK,Bank Users 1-17,text,true,,6493,449,18,18,https://parabank.parasoft.com/parabank/overview.htm,500,0,0
+1782834404019,500,02 - Login-0,302,Found,Bank Users 1-17,,true,,299,279,18,18,https://parabank.parasoft.com/parabank/login.htm,500,0,0
+1782834404519,318,02 - Login-1,200,OK,Bank Users 1-17,text,true,,6194,170,18,18,https://parabank.parasoft.com/parabank/overview.htm,316,0,0
+1782834403988,885,02 - Login,200,OK,Bank Users 1-11,text,true,,6493,449,18,18,https://parabank.parasoft.com/parabank/overview.htm,531,0,0
+1782834403988,531,02 - Login-0,302,Found,Bank Users 1-11,,true,,299,279,18,18,https://parabank.parasoft.com/parabank/login.htm,531,0,0
+1782834404519,354,02 - Login-1,200,OK,Bank Users 1-11,text,true,,6194,170,18,18,https://parabank.parasoft.com/parabank/overview.htm,354,0,0
+1782834404760,207,01 - Home Page,200,OK,Bank Users 1-7,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,204,0,0
+1782834404554,853,02 - Login,200,OK,Bank Users 1-6,text,true,,6493,449,19,19,https://parabank.parasoft.com/parabank/overview.htm,332,0,0
+1782834404849,557,05 - Logout,200,OK,Bank Users 1-1,text,true,,4994,349,19,19,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,197,0,0
+1782834404554,332,02 - Login-0,302,Found,Bank Users 1-6,,true,,299,279,19,19,https://parabank.parasoft.com/parabank/login.htm,332,0,0
+1782834404849,197,05 - Logout-0,302,Found,Bank Users 1-1,,true,,393,168,19,19,https://parabank.parasoft.com/parabank/logout.htm,197,0,0
+1782834404886,521,02 - Login-1,200,OK,Bank Users 1-6,text,true,,6194,170,19,19,https://parabank.parasoft.com/parabank/overview.htm,520,0,0
+1782834405047,359,05 - Logout-1,200,OK,Bank Users 1-1,text,true,,4601,181,19,19,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,359,0,0
+1782834404508,899,02 - Login,200,OK,Bank Users 1-12,text,true,,6493,449,19,19,https://parabank.parasoft.com/parabank/overview.htm,358,0,0
+1782834404508,358,02 - Login-0,302,Found,Bank Users 1-12,,true,,299,279,19,19,https://parabank.parasoft.com/parabank/login.htm,358,0,0
+1782834404866,541,02 - Login-1,200,OK,Bank Users 1-12,text,true,,6194,170,19,19,https://parabank.parasoft.com/parabank/overview.htm,540,0,0
+1782834405096,519,05 - Logout,200,OK,Bank Users 1-16,text,true,,4999,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,310,0,0
+1782834405096,310,05 - Logout-0,302,Found,Bank Users 1-16,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,310,0,0
+1782834405407,208,05 - Logout-1,200,OK,Bank Users 1-16,text,true,,4606,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,208,0,0
+1782834405194,423,05 - Logout,200,OK,Bank Users 1-4,text,true,,4994,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,213,0,0
+1782834405194,213,05 - Logout-0,302,Found,Bank Users 1-4,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,213,0,0
+1782834405407,210,05 - Logout-1,200,OK,Bank Users 1-4,text,true,,4601,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,210,0,0
+1782834405349,323,01 - Home Page,200,OK,Bank Users 1-20,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,322,0,111
+1782834405522,216,01 - Home Page,200,OK,Bank Users 1-9,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,212,0,0
+1782834405856,404,05 - Logout,200,OK,Bank Users 1-17,text,true,,4994,349,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,200,0,0
+1782834405856,200,05 - Logout-0,302,Found,Bank Users 1-17,,true,,393,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,200,0,0
+1782834406056,204,05 - Logout-1,200,OK,Bank Users 1-17,text,true,,4601,181,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,203,0,0
+1782834405871,591,02 - Login,200,OK,Bank Users 1-5,text,true,,6493,449,18,18,https://parabank.parasoft.com/parabank/overview.htm,308,0,0
+1782834405871,308,02 - Login-0,302,Found,Bank Users 1-5,,true,,299,279,18,18,https://parabank.parasoft.com/parabank/login.htm,308,0,0
+1782834406180,282,02 - Login-1,200,OK,Bank Users 1-5,text,true,,6194,170,18,18,https://parabank.parasoft.com/parabank/overview.htm,280,0,0
+1782834406350,219,01 - Home Page,200,OK,Bank Users 1-10,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,214,0,0
+1782834406007,562,02 - Login,200,OK,Bank Users 1-7,text,true,,6493,449,18,18,https://parabank.parasoft.com/parabank/overview.htm,282,0,0
+1782834406007,282,02 - Login-0,302,Found,Bank Users 1-7,,true,,299,279,18,18,https://parabank.parasoft.com/parabank/login.htm,282,0,0
+1782834406289,280,02 - Login-1,200,OK,Bank Users 1-7,text,true,,6194,170,18,18,https://parabank.parasoft.com/parabank/overview.htm,280,0,0
+1782834406060,561,02 - Login,200,OK,Bank Users 1-13,text,true,,6493,449,18,18,https://parabank.parasoft.com/parabank/overview.htm,281,0,0
+1782834406060,281,02 - Login-0,302,Found,Bank Users 1-13,,true,,299,279,18,18,https://parabank.parasoft.com/parabank/login.htm,281,0,0
+1782834406341,280,02 - Login-1,200,OK,Bank Users 1-13,text,true,,6194,170,18,18,https://parabank.parasoft.com/parabank/overview.htm,279,0,0
+1782834406318,337,01 - Home Page,200,OK,Bank Users 1-21,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,337,0,100
+1782834406465,402,05 - Logout,200,OK,Bank Users 1-6,text,true,,4994,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,198,0,0
+1782834406465,198,05 - Logout-0,302,Found,Bank Users 1-6,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,198,0,0
+1782834406663,204,05 - Logout-1,200,OK,Bank Users 1-6,text,true,,4601,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,204,0,0
+1782834406416,702,02 - Login,200,OK,Bank Users 1-18,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,283,0,0
+1782834406416,283,02 - Login-0,302,Found,Bank Users 1-18,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,283,0,0
+1782834406699,419,02 - Login-1,200,OK,Bank Users 1-18,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,419,0,0
+1782834406561,559,02 - Login,200,OK,Bank Users 1-19,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,278,0,0
+1782834406561,278,02 - Login-0,302,Found,Bank Users 1-19,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,278,0,0
+1782834406840,280,02 - Login-1,200,OK,Bank Users 1-19,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,278,0,0
+1782834407134,215,01 - Home Page,200,OK,Bank Users 1-16,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,215,0,0
+1782834407155,209,01 - Home Page,200,OK,Bank Users 1-14,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,206,0,0
+1782834406880,561,02 - Login,200,OK,Bank Users 1-8,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,283,0,0
+1782834406880,283,02 - Login-0,302,Found,Bank Users 1-8,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,283,0,0
+1782834407163,278,02 - Login-1,200,OK,Bank Users 1-8,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,278,0,0
+1782834407064,408,05 - Logout,200,OK,Bank Users 1-12,text,true,,4994,349,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,208,0,0
+1782834407064,208,05 - Logout-0,302,Found,Bank Users 1-12,,true,,393,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,208,0,0
+1782834407273,199,05 - Logout-1,200,OK,Bank Users 1-12,text,true,,4601,181,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,198,0,0
+1782834407535,204,01 - Home Page,200,OK,Bank Users 1-15,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,201,0,0
+1782834407444,351,02 - Login,429,Too Many Requests,Bank Users 1-9,text,false,,771,449,18,18,https://parabank.parasoft.com/parabank/overview.htm,280,0,0
+1782834407444,280,02 - Login-0,302,Found,Bank Users 1-9,,true,,299,279,18,18,https://parabank.parasoft.com/parabank/login.htm,280,0,0
+1782834407724,71,02 - Login-1,429,Too Many Requests,Bank Users 1-9,text,false,,472,170,18,18,https://parabank.parasoft.com/parabank/overview.htm,71,0,0
+1782834407554,411,05 - Logout,200,OK,Bank Users 1-11,text,true,,4999,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,206,0,0
+1782834407554,206,05 - Logout-0,302,Found,Bank Users 1-11,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,206,0,0
+1782834407760,205,05 - Logout-1,200,OK,Bank Users 1-11,text,true,,4606,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,205,0,0
+1782834408045,48,05 - Logout,429,Too Many Requests,Bank Users 1-5,text,false,,472,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,48,0,0
+1782834407890,205,01 - Home Page,200,OK,Bank Users 1-17,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,204,0,0
+1782834408069,563,02 - Login,200,OK,Bank Users 1-20,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,277,0,0
+1782834408069,277,02 - Login-0,302,Found,Bank Users 1-20,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,277,0,0
+1782834408346,286,02 - Login-1,200,OK,Bank Users 1-20,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,285,0,0
+1782834408281,560,02 - Login,200,OK,Bank Users 1-21,text,true,,6493,449,18,18,https://parabank.parasoft.com/parabank/overview.htm,277,0,0
+1782834408281,277,02 - Login-0,302,Found,Bank Users 1-21,,true,,299,279,18,18,https://parabank.parasoft.com/parabank/login.htm,277,0,0
+1782834408558,283,02 - Login-1,200,OK,Bank Users 1-21,text,true,,6194,170,18,18,https://parabank.parasoft.com/parabank/overview.htm,280,0,0
+1782834408460,410,05 - Logout,200,OK,Bank Users 1-7,text,true,,4994,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,201,0,0
+1782834408460,201,05 - Logout-0,302,Found,Bank Users 1-7,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,201,0,0
+1782834408661,209,05 - Logout-1,200,OK,Bank Users 1-7,text,true,,4601,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,209,0,0
+1782834408700,201,01 - Home Page,200,OK,Bank Users 1-12,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,201,0,0
+1782834408526,411,05 - Logout,200,OK,Bank Users 1-19,text,true,,4994,349,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,205,0,0
+1782834408526,205,05 - Logout-0,302,Found,Bank Users 1-19,,true,,393,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,205,0,0
+1782834408731,206,05 - Logout-1,200,OK,Bank Users 1-19,text,true,,4601,181,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,206,0,0
+1782834408580,410,05 - Logout,200,OK,Bank Users 1-13,text,true,,4994,349,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,204,0,0
+1782834408580,204,05 - Logout-0,302,Found,Bank Users 1-13,,true,,393,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,204,0,0
+1782834408784,206,05 - Logout-1,200,OK,Bank Users 1-13,text,true,,4601,181,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,206,0,0
+1782834408961,49,05 - Logout,429,Too Many Requests,Bank Users 1-9,text,false,,472,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,49,0,0
+1782834409103,52,02 - Login,429,Too Many Requests,Bank Users 1-10,text,false,,472,279,16,16,https://parabank.parasoft.com/parabank/login.htm,52,0,0
+1782834409027,450,05 - Logout,200,OK,Bank Users 1-8,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,208,0,0
+1782834409027,208,05 - Logout-0,302,Found,Bank Users 1-8,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,208,0,0
+1782834409235,242,05 - Logout-1,200,OK,Bank Users 1-8,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,242,0,0
+1782834409150,341,01 - Home Page,200,OK,Bank Users 1-22,text,true,,6180,114,15,15,https://parabank.parasoft.com/parabank/index.htm,341,0,98
+1782834409016,608,02 - Login,200,OK,Bank Users 1-15,text,true,,6498,449,15,15,https://parabank.parasoft.com/parabank/overview.htm,309,0,0
+1782834409016,309,02 - Login-0,302,Found,Bank Users 1-15,,true,,299,279,15,15,https://parabank.parasoft.com/parabank/login.htm,309,0,0
+1782834409326,298,02 - Login-1,200,OK,Bank Users 1-15,text,true,,6199,170,15,15,https://parabank.parasoft.com/parabank/overview.htm,298,0,0
+1782834409298,410,05 - Logout,200,OK,Bank Users 1-18,text,true,,4994,349,15,15,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,203,0,0
+1782834409298,203,05 - Logout-0,302,Found,Bank Users 1-18,,true,,393,168,15,15,https://parabank.parasoft.com/parabank/logout.htm,203,0,0
+1782834409501,207,05 - Logout-1,200,OK,Bank Users 1-18,text,true,,4601,181,15,15,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,207,0,0
+1782834409108,680,02 - Login,200,OK,Bank Users 1-14,text,true,,6493,449,15,15,https://parabank.parasoft.com/parabank/overview.htm,393,0,0
+1782834409108,393,02 - Login-0,302,Found,Bank Users 1-14,,true,,299,279,15,15,https://parabank.parasoft.com/parabank/login.htm,393,0,0
+1782834409501,287,02 - Login-1,200,OK,Bank Users 1-14,text,true,,6194,170,15,15,https://parabank.parasoft.com/parabank/overview.htm,286,0,0
+1782834409111,691,02 - Login,200,OK,Bank Users 1-17,text,true,,6493,449,15,15,https://parabank.parasoft.com/parabank/overview.htm,410,0,0
+1782834409111,410,02 - Login-0,302,Found,Bank Users 1-17,,true,,299,279,15,15,https://parabank.parasoft.com/parabank/login.htm,410,0,0
+1782834409521,281,02 - Login-1,200,OK,Bank Users 1-17,text,true,,6194,170,15,15,https://parabank.parasoft.com/parabank/overview.htm,281,0,0
+1782834409731,161,01 - Home Page,429,Too Many Requests,Bank Users 1-23,text,false,,472,114,15,15,https://parabank.parasoft.com/parabank/index.htm,161,0,108
+1782834409423,546,02 - Login,200,OK,Bank Users 1-16,text,true,,6493,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,270,0,0
+1782834409423,270,02 - Login-0,302,Found,Bank Users 1-16,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,270,0,0
+1782834409693,276,02 - Login-1,200,OK,Bank Users 1-16,text,true,,6194,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,276,0,0
+1782834409812,413,05 - Logout,200,OK,Bank Users 1-20,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,203,0,0
+1782834409812,203,05 - Logout-0,302,Found,Bank Users 1-20,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,203,0,0
+1782834410016,209,05 - Logout-1,200,OK,Bank Users 1-20,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,207,0,0
+1782834409854,422,05 - Logout,200,OK,Bank Users 1-21,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,205,0,0
+1782834409854,205,05 - Logout-0,302,Found,Bank Users 1-21,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,205,0,0
+1782834410059,217,05 - Logout-1,200,OK,Bank Users 1-21,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,217,0,0
+1782834410207,215,01 - Home Page,200,OK,Bank Users 1-11,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,209,0,0
+1782834410704,46,05 - Logout,429,Too Many Requests,Bank Users 1-10,text,false,,472,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,46,0,0
+1782834410961,474,01 - Home Page,200,OK,Bank Users 1-18,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,474,0,0
+1782834410934,551,05 - Logout,429,Too Many Requests,Bank Users 1-14,text,false,,865,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,501,0,0
+1782834410934,501,05 - Logout-0,302,Found,Bank Users 1-14,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,501,0,0
+1782834411436,49,05 - Logout-1,429,Too Many Requests,Bank Users 1-14,text,false,,472,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,49,0,0
+1782834411157,335,02 - Login,429,Too Many Requests,Bank Users 1-12,text,false,,771,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,292,0,0
+1782834411157,292,02 - Login-0,302,Found,Bank Users 1-12,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,292,0,0
+1782834411449,43,02 - Login-1,429,Too Many Requests,Bank Users 1-12,text,false,,472,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,43,0,0
+1782834410990,661,05 - Logout,200,OK,Bank Users 1-17,text,true,,4999,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,445,0,0
+1782834410990,445,05 - Logout-0,302,Found,Bank Users 1-17,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,445,0,0
+1782834411436,215,05 - Logout-1,200,OK,Bank Users 1-17,text,true,,4606,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,209,0,0
+1782834411457,358,01 - Home Page,200,OK,Bank Users 1-24,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,356,0,144
+1782834411825,48,01 - Home Page,429,Too Many Requests,Bank Users 1-13,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,48,0,0
+1782834411869,49,01 - Home Page,429,Too Many Requests,Bank Users 1-19,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,49,0,0
+1782834412138,51,02 - Login,429,Too Many Requests,Bank Users 1-11,text,false,,472,279,16,16,https://parabank.parasoft.com/parabank/login.htm,51,0,0
+1782834411921,430,05 - Logout,200,OK,Bank Users 1-15,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,231,0,0
+1782834411921,231,05 - Logout-0,302,Found,Bank Users 1-15,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,231,0,0
+1782834412152,199,05 - Logout-1,200,OK,Bank Users 1-15,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,197,0,0
+1782834411849,545,02 - Login,200,OK,Bank Users 1-22,text,true,,6493,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,264,0,0
+1782834411849,264,02 - Login-0,302,Found,Bank Users 1-22,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,264,0,0
+1782834412113,281,02 - Login-1,200,OK,Bank Users 1-22,text,true,,6194,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,277,0,0
+1782834412355,43,05 - Logout,429,Too Many Requests,Bank Users 1-16,text,false,,472,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,43,0,0
+1782834412385,50,02 - Login,429,Too Many Requests,Bank Users 1-23,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,50,0,0
+1782834412498,46,01 - Home Page,429,Too Many Requests,Bank Users 1-21,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,46,0,0
+1782834412484,318,01 - Home Page,200,OK,Bank Users 1-25,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,318,0,104
+1782834412797,46,01 - Home Page,429,Too Many Requests,Bank Users 1-14,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,46,0,0
+1782834413039,51,02 - Login,429,Too Many Requests,Bank Users 1-19,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,51,0,0
+1782834413025,209,01 - Home Page,200,OK,Bank Users 1-20,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,208,0,0
+1782834413399,45,02 - Login,429,Too Many Requests,Bank Users 1-13,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,45,0,0
+1782834413260,209,01 - Home Page,429,Too Many Requests,Bank Users 1-26,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,209,0,135
+1782834413475,401,05 - Logout,200,OK,Bank Users 1-22,text,true,,4994,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,199,0,0
+1782834413475,199,05 - Logout-0,302,Found,Bank Users 1-22,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,199,0,0
+1782834413674,202,05 - Logout-1,200,OK,Bank Users 1-22,text,true,,4601,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,202,0,0
+1782834413845,53,02 - Login,429,Too Many Requests,Bank Users 1-18,text,false,,472,279,18,18,https://parabank.parasoft.com/parabank/login.htm,53,0,0
+1782834414134,44,05 - Logout,429,Too Many Requests,Bank Users 1-12,text,false,,472,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,44,0,0
+1782834414166,59,02 - Login,429,Too Many Requests,Bank Users 1-21,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,59,0,0
+1782834414224,46,02 - Login,429,Too Many Requests,Bank Users 1-14,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,46,0,0
+1782834414252,164,01 - Home Page,429,Too Many Requests,Bank Users 1-27,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,164,0,104
+1782834414249,206,01 - Home Page,200,OK,Bank Users 1-17,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,205,0,0
+1782834414797,236,05 - Logout,429,Too Many Requests,Bank Users 1-23,text,false,,472,115,18,18,https://parabank.parasoft.com/parabank/logout.htm,236,0,0
+1782834414914,119,01 - Home Page,429,Too Many Requests,Bank Users 1-16,text,false,,472,114,18,18,https://parabank.parasoft.com/parabank/index.htm,119,0,0
+1782834414981,52,05 - Logout,429,Too Many Requests,Bank Users 1-11,text,false,,472,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,52,0,0
+1782834414278,755,02 - Login,200,OK,Bank Users 1-24,text,true,,6493,449,18,18,https://parabank.parasoft.com/parabank/overview.htm,299,0,0
+1782834414378,655,02 - Login,200,OK,Bank Users 1-20,text,true,,6493,449,18,18,https://parabank.parasoft.com/parabank/overview.htm,275,0,0
+1782834414278,299,02 - Login-0,302,Found,Bank Users 1-24,,true,,299,279,18,18,https://parabank.parasoft.com/parabank/login.htm,299,0,0
+1782834414575,458,01 - Home Page,200,OK,Bank Users 1-15,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,458,0,0
+1782834414378,275,02 - Login-0,302,Found,Bank Users 1-20,,true,,299,279,18,18,https://parabank.parasoft.com/parabank/login.htm,275,0,0
+1782834414577,456,02 - Login-1,200,OK,Bank Users 1-24,text,true,,6194,170,18,18,https://parabank.parasoft.com/parabank/overview.htm,456,0,0
+1782834414653,380,02 - Login-1,200,OK,Bank Users 1-20,text,true,,6194,170,18,18,https://parabank.parasoft.com/parabank/overview.htm,380,0,0
+1782834415083,111,02 - Login,429,Too Many Requests,Bank Users 1-26,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,111,0,0
+1782834415297,61,05 - Logout,429,Too Many Requests,Bank Users 1-19,text,false,,472,115,17,17,https://parabank.parasoft.com/parabank/logout.htm,61,0,0
+1782834415157,204,01 - Home Page,200,OK,Bank Users 1-22,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,204,0,0
+1782834415336,171,01 - Home Page,429,Too Many Requests,Bank Users 1-28,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,171,0,111
+1782834415522,48,05 - Logout,429,Too Many Requests,Bank Users 1-14,text,false,,472,115,17,17,https://parabank.parasoft.com/parabank/logout.htm,48,0,0
+1782834415080,579,02 - Login,200,OK,Bank Users 1-25,text,true,,6493,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,278,0,0
+1782834415080,278,02 - Login-0,302,Found,Bank Users 1-25,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,278,0,0
+1782834415358,301,02 - Login-1,200,OK,Bank Users 1-25,text,true,,6194,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,301,0,0
+1782834416014,54,02 - Login,429,Too Many Requests,Bank Users 1-27,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,54,0,0
+1782834416201,67,01 - Home Page,429,Too Many Requests,Bank Users 1-23,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,67,0,0
+1782834416211,62,05 - Logout,429,Too Many Requests,Bank Users 1-26,text,false,,472,115,17,17,https://parabank.parasoft.com/parabank/logout.htm,62,0,0
+1782834416261,50,05 - Logout,429,Too Many Requests,Bank Users 1-18,text,false,,472,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,50,0,0
+1782834416430,48,05 - Logout,429,Too Many Requests,Bank Users 1-13,text,false,,472,115,17,17,https://parabank.parasoft.com/parabank/logout.htm,48,0,0
+1782834416267,408,05 - Logout,200,OK,Bank Users 1-24,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,199,0,0
+1782834416267,199,05 - Logout-0,302,Found,Bank Users 1-24,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,199,0,0
+1782834416466,209,05 - Logout-1,200,OK,Bank Users 1-24,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,208,0,0
+1782834416171,544,02 - Login,200,OK,Bank Users 1-15,text,true,,6493,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,269,0,0
+1782834416171,269,02 - Login-0,302,Found,Bank Users 1-15,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,269,0,0
+1782834416440,275,02 - Login-1,200,OK,Bank Users 1-15,text,true,,6194,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,273,0,0
+1782834416740,48,01 - Home Page,429,Too Many Requests,Bank Users 1-19,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,48,0,0
+1782834416957,310,05 - Logout,429,Too Many Requests,Bank Users 1-21,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,310,0,0
+1782834416973,294,02 - Login,429,Too Many Requests,Bank Users 1-16,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,294,0,0
+1782834416678,589,05 - Logout,200,OK,Bank Users 1-20,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,214,0,0
+1782834416678,214,05 - Logout-0,302,Found,Bank Users 1-20,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,214,0,0
+1782834416892,375,05 - Logout-1,200,OK,Bank Users 1-20,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,375,0,0
+1782834417265,153,01 - Home Page,429,Too Many Requests,Bank Users 1-29,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,153,0,105
+1782834417407,53,02 - Login,429,Too Many Requests,Bank Users 1-28,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,52,0,0
+1782834417540,49,05 - Logout,429,Too Many Requests,Bank Users 1-27,text,false,,472,115,17,17,https://parabank.parasoft.com/parabank/logout.htm,49,0,0
+1782834417350,549,02 - Login,200,OK,Bank Users 1-17,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,270,0,0
+1782834417350,270,02 - Login-0,302,Found,Bank Users 1-17,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,270,0,0
+1782834417620,279,02 - Login-1,200,OK,Bank Users 1-17,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,279,0,0
+1782834417522,554,02 - Login,200,OK,Bank Users 1-22,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,273,0,0
+1782834417522,273,02 - Login-0,302,Found,Bank Users 1-22,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,273,0,0
+1782834417795,281,02 - Login-1,200,OK,Bank Users 1-22,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,279,0,0
+1782834417689,421,05 - Logout,200,OK,Bank Users 1-25,text,true,,4999,349,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,210,0,0
+1782834417689,210,05 - Logout-0,302,Found,Bank Users 1-25,,true,,393,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,210,0,0
+1782834417899,211,05 - Logout-1,200,OK,Bank Users 1-25,text,true,,4606,181,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,209,0,0
+1782834418097,51,01 - Home Page,429,Too Many Requests,Bank Users 1-18,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,51,0,0
+1782834418011,157,01 - Home Page,429,Too Many Requests,Bank Users 1-30,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,157,0,108
+1782834418132,399,05 - Logout,200,OK,Bank Users 1-15,text,true,,4994,349,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,198,0,0
+1782834418132,198,05 - Logout-0,302,Found,Bank Users 1-15,,true,,393,168,18,18,https://parabank.parasoft.com/parabank/logout.htm,198,0,0
+1782834418330,201,05 - Logout-1,200,OK,Bank Users 1-15,text,true,,4601,181,18,18,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,200,0,0
+1782834418791,62,02 - Login,429,Too Many Requests,Bank Users 1-23,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,62,0,0
+1782834418688,165,01 - Home Page,429,Too Many Requests,Bank Users 1-27,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,165,0,0
+1782834418623,230,01 - Home Page,200,OK,Bank Users 1-24,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,230,0,0
+1782834418862,53,05 - Logout,429,Too Many Requests,Bank Users 1-28,text,false,,472,115,17,17,https://parabank.parasoft.com/parabank/logout.htm,53,0,0
+1782834419018,45,01 - Home Page,429,Too Many Requests,Bank Users 1-21,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,45,0,0
+1782834419193,44,01 - Home Page,429,Too Many Requests,Bank Users 1-26,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,44,0,0
+1782834419208,51,02 - Login,429,Too Many Requests,Bank Users 1-19,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,51,0,0
+1782834419379,48,02 - Login,429,Too Many Requests,Bank Users 1-18,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,48,0,0
+1782834419252,211,01 - Home Page,200,OK,Bank Users 1-25,text,true,,6180,114,17,17,https://parabank.parasoft.com/parabank/index.htm,210,0,0
+1782834419519,325,01 - Home Page,200,OK,Bank Users 1-31,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,323,0,107
+1782834419687,209,01 - Home Page,200,OK,Bank Users 1-20,text,true,,6180,114,18,18,https://parabank.parasoft.com/parabank/index.htm,206,0,0
+1782834420038,46,05 - Logout,429,Too Many Requests,Bank Users 1-16,text,false,,472,115,18,18,https://parabank.parasoft.com/parabank/logout.htm,46,0,0
+1782834420131,45,02 - Login,429,Too Many Requests,Bank Users 1-29,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,45,0,0
+1782834420227,50,01 - Home Page,429,Too Many Requests,Bank Users 1-28,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,50,0,0
+1782834420482,50,02 - Login,429,Too Many Requests,Bank Users 1-30,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,50,0,0
+1782834420561,48,02 - Login,429,Too Many Requests,Bank Users 1-27,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,48,0,0
+1782834420650,50,05 - Logout,429,Too Many Requests,Bank Users 1-23,text,false,,472,115,17,17,https://parabank.parasoft.com/parabank/logout.htm,50,0,0
+1782834420727,48,02 - Login,429,Too Many Requests,Bank Users 1-26,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,48,0,0
+1782834420950,48,02 - Login,429,Too Many Requests,Bank Users 1-21,text,false,,472,226,18,18,https://parabank.parasoft.com/parabank/login.htm,48,0,0
+1782834420874,148,01 - Home Page,429,Too Many Requests,Bank Users 1-32,text,false,,472,114,18,18,https://parabank.parasoft.com/parabank/index.htm,148,0,101
+1782834421010,48,05 - Logout,429,Too Many Requests,Bank Users 1-18,text,false,,472,115,18,18,https://parabank.parasoft.com/parabank/logout.htm,48,0,0
+1782834420789,400,05 - Logout,200,OK,Bank Users 1-22,text,true,,4994,349,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,198,0,0
+1782834420789,198,05 - Logout-0,302,Found,Bank Users 1-22,,true,,393,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,198,0,0
+1782834420987,202,05 - Logout-1,200,OK,Bank Users 1-22,text,true,,4601,181,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,201,0,0
+1782834420868,410,05 - Logout,200,OK,Bank Users 1-17,text,true,,4994,349,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,204,0,0
+1782834420868,204,05 - Logout-0,302,Found,Bank Users 1-17,,true,,393,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,204,0,0
+1782834421072,206,05 - Logout-1,200,OK,Bank Users 1-17,text,true,,4601,181,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,206,0,0
+1782834421261,45,05 - Logout,429,Too Many Requests,Bank Users 1-29,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,45,0,0
+1782834421376,52,02 - Login,429,Too Many Requests,Bank Users 1-28,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,52,0,0
+1782834421380,52,05 - Logout,429,Too Many Requests,Bank Users 1-19,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,52,0,0
+1782834421444,305,01 - Home Page,200,OK,Bank Users 1-33,text,true,,6180,114,15,15,https://parabank.parasoft.com/parabank/index.htm,305,0,96
+1782834421157,637,02 - Login,200,OK,Bank Users 1-31,text,true,,6493,449,15,15,https://parabank.parasoft.com/parabank/overview.htm,340,0,0
+1782834421157,340,02 - Login-0,302,Found,Bank Users 1-31,,true,,299,279,15,15,https://parabank.parasoft.com/parabank/login.htm,340,0,0
+1782834421498,296,02 - Login-1,200,OK,Bank Users 1-31,text,true,,6194,170,15,15,https://parabank.parasoft.com/parabank/overview.htm,296,0,0
+1782834421618,552,02 - Login,200,OK,Bank Users 1-24,text,true,,6493,449,15,15,https://parabank.parasoft.com/parabank/overview.htm,273,0,0
+1782834421618,273,02 - Login-0,302,Found,Bank Users 1-24,,true,,299,279,15,15,https://parabank.parasoft.com/parabank/login.htm,273,0,0
+1782834421891,279,02 - Login-1,200,OK,Bank Users 1-24,text,true,,6194,170,15,15,https://parabank.parasoft.com/parabank/overview.htm,275,0,0
+1782834422335,280,05 - Logout,429,Too Many Requests,Bank Users 1-30,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,280,0,0
+1782834421790,825,02 - Login,200,OK,Bank Users 1-25,text,true,,6493,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,278,0,0
+1782834421790,278,02 - Login-0,302,Found,Bank Users 1-25,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,278,0,0
+1782834422068,547,02 - Login-1,200,OK,Bank Users 1-25,text,true,,6194,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,547,0,0
+1782834422601,50,05 - Logout,429,Too Many Requests,Bank Users 1-26,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,50,0,0
+1782834422842,50,05 - Logout,429,Too Many Requests,Bank Users 1-27,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,50,0,0
+1782834422293,602,02 - Login,200,OK,Bank Users 1-20,text,true,,6498,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,322,0,0
+1782834422293,322,02 - Login-0,302,Found,Bank Users 1-20,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,322,0,0
+1782834422615,280,02 - Login-1,200,OK,Bank Users 1-20,text,true,,6199,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,278,0,0
+1782834422967,51,05 - Logout,429,Too Many Requests,Bank Users 1-28,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,51,0,0
+1782834423111,46,05 - Logout,429,Too Many Requests,Bank Users 1-21,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,46,0,0
+1782834423249,47,02 - Login,429,Too Many Requests,Bank Users 1-32,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,47,0,0
+1782834423047,425,05 - Logout,200,OK,Bank Users 1-31,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,211,0,0
+1782834423047,211,05 - Logout-0,302,Found,Bank Users 1-31,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,211,0,0
+1782834423258,214,05 - Logout-1,200,OK,Bank Users 1-31,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,214,0,0
+1782834423281,207,01 - Home Page,200,OK,Bank Users 1-22,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,206,0,0
+1782834423491,48,01 - Home Page,429,Too Many Requests,Bank Users 1-23,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,48,0,0
+1782834423548,312,01 - Home Page,200,OK,Bank Users 1-34,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,312,0,103
+1782834423825,45,01 - Home Page,429,Too Many Requests,Bank Users 1-29,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,45,0,0
+1782834423846,44,01 - Home Page,429,Too Many Requests,Bank Users 1-26,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,44,0,0
+1782834424601,48,01 - Home Page,429,Too Many Requests,Bank Users 1-30,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,48,0,0
+1782834424405,413,05 - Logout,200,OK,Bank Users 1-24,text,true,,4994,349,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,206,0,0
+1782834424405,206,05 - Logout-0,302,Found,Bank Users 1-24,,true,,393,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,206,0,0
+1782834424611,207,05 - Logout-1,200,OK,Bank Users 1-24,text,true,,4601,181,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,207,0,0
+1782834424268,574,02 - Login,200,OK,Bank Users 1-33,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,291,0,0
+1782834424268,291,02 - Login-0,302,Found,Bank Users 1-33,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,291,0,0
+1782834424559,283,02 - Login-1,200,OK,Bank Users 1-33,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,281,0,0
+1782834424560,432,05 - Logout,200,OK,Bank Users 1-20,text,true,,4994,349,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,204,0,0
+1782834424560,204,05 - Logout-0,302,Found,Bank Users 1-20,,true,,393,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,204,0,0
+1782834424764,228,05 - Logout-1,200,OK,Bank Users 1-20,text,true,,4601,181,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,228,0,0
+1782834424946,47,01 - Home Page,429,Too Many Requests,Bank Users 1-27,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,47,0,0
+1782834425027,53,01 - Home Page,429,Too Many Requests,Bank Users 1-28,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,53,0,0
+1782834424942,220,01 - Home Page,200,OK,Bank Users 1-31,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,220,0,0
+1782834424829,363,01 - Home Page,200,OK,Bank Users 1-35,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,361,0,138
+1782834425284,57,02 - Login,429,Too Many Requests,Bank Users 1-29,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,57,0,0
+1782834425357,75,02 - Login,429,Too Many Requests,Bank Users 1-26,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,75,0,0
+1782834425263,319,01 - Home Page,200,OK,Bank Users 1-36,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,318,0,106
+1782834425672,45,05 - Logout,429,Too Many Requests,Bank Users 1-32,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,45,0,0
+1782834425703,51,02 - Login,429,Too Many Requests,Bank Users 1-30,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,51,0,0
+1782834425226,557,02 - Login,200,OK,Bank Users 1-34,text,true,,6493,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,277,0,0
+1782834425226,277,02 - Login-0,302,Found,Bank Users 1-34,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,277,0,0
+1782834425503,280,02 - Login-1,200,OK,Bank Users 1-34,text,true,,6194,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,280,0,0
+1782834425447,420,05 - Logout,200,OK,Bank Users 1-25,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,207,0,0
+1782834425447,207,05 - Logout-0,302,Found,Bank Users 1-25,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,207,0,0
+1782834425654,213,05 - Logout-1,200,OK,Bank Users 1-25,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,213,0,0
+1782834426331,51,02 - Login,429,Too Many Requests,Bank Users 1-23,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,51,0,0
+1782834425838,544,02 - Login,200,OK,Bank Users 1-22,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,267,0,0
+1782834425838,267,02 - Login-0,302,Found,Bank Users 1-22,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,267,0,0
+1782834426105,277,02 - Login-1,200,OK,Bank Users 1-22,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,277,0,0
+1782834426401,49,02 - Login,429,Too Many Requests,Bank Users 1-28,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,49,0,0
+1782834426560,400,05 - Logout,200,OK,Bank Users 1-33,text,true,,4994,349,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,198,0,0
+1782834426560,198,05 - Logout-0,302,Found,Bank Users 1-33,,true,,393,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,198,0,0
+1782834426758,202,05 - Logout-1,200,OK,Bank Users 1-33,text,true,,4601,181,17,17,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,201,0,0
+1782834427144,50,05 - Logout,429,Too Many Requests,Bank Users 1-29,text,false,,472,115,18,18,https://parabank.parasoft.com/parabank/logout.htm,50,0,0
+1782834427243,150,01 - Home Page,429,Too Many Requests,Bank Users 1-37,text,false,,472,114,18,18,https://parabank.parasoft.com/parabank/index.htm,150,0,101
+1782834427360,46,05 - Logout,429,Too Many Requests,Bank Users 1-26,text,false,,472,115,18,18,https://parabank.parasoft.com/parabank/logout.htm,46,0,0
+1782834426964,547,02 - Login,200,OK,Bank Users 1-36,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,268,0,0
+1782834426964,268,02 - Login-0,302,Found,Bank Users 1-36,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,268,0,0
+1782834427232,279,02 - Login-1,200,OK,Bank Users 1-36,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,275,0,0
+1782834427510,50,02 - Login,429,Too Many Requests,Bank Users 1-27,text,false,,472,226,17,17,https://parabank.parasoft.com/parabank/login.htm,50,0,0
+1782834427690,52,05 - Logout,429,Too Many Requests,Bank Users 1-23,text,false,,472,115,17,17,https://parabank.parasoft.com/parabank/logout.htm,52,0,0
+1782834427563,204,01 - Home Page,200,OK,Bank Users 1-24,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,204,0,0
+1782834427803,48,05 - Logout,429,Too Many Requests,Bank Users 1-30,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,48,0,0
+1782834427537,414,05 - Logout,200,OK,Bank Users 1-34,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,201,0,0
+1782834427537,201,05 - Logout-0,302,Found,Bank Users 1-34,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,201,0,0
+1782834427739,212,05 - Logout-1,200,OK,Bank Users 1-34,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,211,0,0
+1782834428252,47,01 - Home Page,429,Too Many Requests,Bank Users 1-32,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,47,0,0
+1782834427783,569,02 - Login,200,OK,Bank Users 1-35,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,288,0,0
+1782834427783,288,02 - Login-0,302,Found,Bank Users 1-35,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,288,0,0
+1782834428071,281,02 - Login-1,200,OK,Bank Users 1-35,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,280,0,0
+1782834427875,573,02 - Login,200,OK,Bank Users 1-31,text,true,,6493,449,17,17,https://parabank.parasoft.com/parabank/overview.htm,285,0,0
+1782834427875,285,02 - Login-0,302,Found,Bank Users 1-31,,true,,299,279,17,17,https://parabank.parasoft.com/parabank/login.htm,285,0,0
+1782834428160,288,02 - Login-1,200,OK,Bank Users 1-31,text,true,,6194,170,17,17,https://parabank.parasoft.com/parabank/overview.htm,288,0,0
+1782834428654,53,05 - Logout,429,Too Many Requests,Bank Users 1-28,text,false,,472,115,17,17,https://parabank.parasoft.com/parabank/logout.htm,53,0,0
+1782834428647,156,01 - Home Page,429,Too Many Requests,Bank Users 1-38,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,156,0,110
+1782834428529,405,05 - Logout,200,OK,Bank Users 1-22,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,199,0,0
+1782834428529,199,05 - Logout-0,302,Found,Bank Users 1-22,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,199,0,0
+1782834428728,206,05 - Logout-1,200,OK,Bank Users 1-22,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,206,0,0
+1782834428748,225,01 - Home Page,200,OK,Bank Users 1-25,text,true,,6180,114,15,15,https://parabank.parasoft.com/parabank/index.htm,225,0,0
+1782834429017,48,02 - Login,429,Too Many Requests,Bank Users 1-37,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,48,0,0
+1782834429143,153,01 - Home Page,429,Too Many Requests,Bank Users 1-39,text,false,,472,114,15,15,https://parabank.parasoft.com/parabank/index.htm,153,0,104
+1782834429577,44,02 - Login,429,Too Many Requests,Bank Users 1-32,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,44,0,0
+1782834429456,205,01 - Home Page,200,OK,Bank Users 1-34,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,205,0,0
+1782834429459,215,01 - Home Page,200,OK,Bank Users 1-33,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,204,0,0
+1782834429650,50,01 - Home Page,429,Too Many Requests,Bank Users 1-30,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,50,0,0
+1782834429848,49,02 - Login,429,Too Many Requests,Bank Users 1-38,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,49,0,0
+1782834429608,301,01 - Home Page,200,OK,Bank Users 1-40,text,true,,6180,114,16,16,https://parabank.parasoft.com/parabank/index.htm,300,0,95
+1782834429369,544,02 - Login,200,OK,Bank Users 1-24,text,true,,6493,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,271,0,0
+1782834429369,271,02 - Login-0,302,Found,Bank Users 1-24,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,271,0,0
+1782834429640,273,02 - Login-1,200,OK,Bank Users 1-24,text,true,,6194,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,272,0,0
+1782834429935,47,01 - Home Page,429,Too Many Requests,Bank Users 1-29,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,47,0,0
+1782834429947,48,05 - Logout,429,Too Many Requests,Bank Users 1-27,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,48,0,0
+1782834430158,408,05 - Logout,200,OK,Bank Users 1-36,text,true,,4994,349,15,15,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,206,0,0
+1782834430158,206,05 - Logout-0,302,Found,Bank Users 1-36,,true,,393,168,15,15,https://parabank.parasoft.com/parabank/logout.htm,206,0,0
+1782834430364,202,05 - Logout-1,200,OK,Bank Users 1-36,text,true,,4601,181,15,15,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,202,0,0
+1782834430932,44,05 - Logout,429,Too Many Requests,Bank Users 1-38,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,44,0,0
+1782834430917,78,05 - Logout,429,Too Many Requests,Bank Users 1-32,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,78,0,0
+1782834430630,422,05 - Logout,200,OK,Bank Users 1-35,text,true,,4994,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,208,0,0
+1782834430630,208,05 - Logout-0,302,Found,Bank Users 1-35,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,208,0,0
+1782834430838,214,05 - Logout-1,200,OK,Bank Users 1-35,text,true,,4601,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,214,0,0
+1782834430820,335,02 - Login,429,Too Many Requests,Bank Users 1-25,text,false,,771,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,287,0,0
+1782834430820,287,02 - Login-0,302,Found,Bank Users 1-25,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,287,0,0
+1782834431107,48,02 - Login-1,429,Too Many Requests,Bank Users 1-25,text,false,,472,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,48,0,0
+1782834430945,248,05 - Logout,429,Too Many Requests,Bank Users 1-24,text,false,,865,349,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,202,0,0
+1782834430945,202,05 - Logout-0,302,Found,Bank Users 1-24,,true,,393,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,202,0,0
+1782834431148,45,05 - Logout-1,429,Too Many Requests,Bank Users 1-24,text,false,,472,181,16,16,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,45,0,0
+1782834431298,45,02 - Login,429,Too Many Requests,Bank Users 1-40,text,false,,472,279,15,15,https://parabank.parasoft.com/parabank/login.htm,45,0,0
+1782834431362,52,05 - Logout,429,Too Many Requests,Bank Users 1-31,text,false,,472,168,15,15,https://parabank.parasoft.com/parabank/logout.htm,52,0,0
+1782834431367,48,02 - Login,429,Too Many Requests,Bank Users 1-34,text,false,,472,279,15,15,https://parabank.parasoft.com/parabank/login.htm,48,0,0
+1782834431425,152,01 - Home Page,429,Too Many Requests,Bank Users 1-41,text,false,,472,114,15,15,https://parabank.parasoft.com/parabank/index.htm,152,0,103
+1782834431556,46,02 - Login,429,Too Many Requests,Bank Users 1-39,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,46,0,0
+1782834431667,48,05 - Logout,429,Too Many Requests,Bank Users 1-37,text,false,,472,115,15,15,https://parabank.parasoft.com/parabank/logout.htm,48,0,0
+1782834431789,49,02 - Login,429,Too Many Requests,Bank Users 1-30,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,49,0,0
+1782834431946,55,01 - Home Page,429,Too Many Requests,Bank Users 1-36,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,55,0,0
+1782834432032,43,01 - Home Page,429,Too Many Requests,Bank Users 1-32,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,43,0,0
+1782834432313,45,02 - Login,429,Too Many Requests,Bank Users 1-33,text,false,,472,279,16,16,https://parabank.parasoft.com/parabank/login.htm,45,0,0
+1782834432389,166,01 - Home Page,429,Too Many Requests,Bank Users 1-42,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,166,0,103
+1782834432656,50,05 - Logout,429,Too Many Requests,Bank Users 1-34,text,false,,472,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,50,0,0
+1782834432681,45,02 - Login,429,Too Many Requests,Bank Users 1-29,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,45,0,0
+1782834432774,43,05 - Logout,429,Too Many Requests,Bank Users 1-40,text,false,,472,168,16,16,https://parabank.parasoft.com/parabank/logout.htm,43,0,0
+1782834432913,52,02 - Login,429,Too Many Requests,Bank Users 1-41,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,52,0,0
+1782834433019,48,01 - Home Page,429,Too Many Requests,Bank Users 1-35,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,48,0,0
+1782834433030,50,01 - Home Page,429,Too Many Requests,Bank Users 1-31,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,50,0,0
+1782834433624,49,01 - Home Page,429,Too Many Requests,Bank Users 1-38,text,false,,472,114,17,17,https://parabank.parasoft.com/parabank/index.htm,49,0,0
+1782834433658,62,05 - Logout,429,Too Many Requests,Bank Users 1-30,text,false,,472,115,17,17,https://parabank.parasoft.com/parabank/logout.htm,62,0,0
+1782834433666,54,05 - Logout,429,Too Many Requests,Bank Users 1-25,text,false,,472,168,17,17,https://parabank.parasoft.com/parabank/logout.htm,54,0,0
+1782834433722,50,01 - Home Page,429,Too Many Requests,Bank Users 1-37,text,false,,472,114,15,15,https://parabank.parasoft.com/parabank/index.htm,50,0,0
+1782834433770,65,02 - Login,429,Too Many Requests,Bank Users 1-36,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,65,0,0
+1782834433955,45,05 - Logout,429,Too Many Requests,Bank Users 1-29,text,false,,472,115,15,15,https://parabank.parasoft.com/parabank/logout.htm,45,0,0
+1782834433977,46,02 - Login,429,Too Many Requests,Bank Users 1-42,text,false,,472,226,14,14,https://parabank.parasoft.com/parabank/login.htm,46,0,0
+1782834434042,163,01 - Home Page,429,Too Many Requests,Bank Users 1-43,text,false,,472,114,14,14,https://parabank.parasoft.com/parabank/index.htm,163,0,110
+1782834434171,54,01 - Home Page,429,Too Many Requests,Bank Users 1-34,text,false,,472,114,14,14,https://parabank.parasoft.com/parabank/index.htm,54,0,0
+1782834434298,45,02 - Login,429,Too Many Requests,Bank Users 1-32,text,false,,472,226,14,14,https://parabank.parasoft.com/parabank/login.htm,45,0,0
+1782834434344,107,05 - Logout,429,Too Many Requests,Bank Users 1-39,text,false,,472,115,15,15,https://parabank.parasoft.com/parabank/logout.htm,107,0,0
+1782834434401,72,05 - Logout,429,Too Many Requests,Bank Users 1-33,text,false,,472,168,15,15,https://parabank.parasoft.com/parabank/logout.htm,72,0,0
+1782834434982,43,05 - Logout,429,Too Many Requests,Bank Users 1-41,text,false,,472,115,15,15,https://parabank.parasoft.com/parabank/logout.htm,43,0,0
+1782834435035,47,05 - Logout,429,Too Many Requests,Bank Users 1-36,text,false,,472,115,15,15,https://parabank.parasoft.com/parabank/logout.htm,47,0,0
+1782834435135,53,02 - Login,429,Too Many Requests,Bank Users 1-31,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,53,0,0
+1782834435273,58,02 - Login,429,Too Many Requests,Bank Users 1-43,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,58,0,0
+1782834435325,55,01 - Home Page,429,Too Many Requests,Bank Users 1-40,text,false,,472,114,15,15,https://parabank.parasoft.com/parabank/index.htm,55,0,0
+1782834435395,53,02 - Login,429,Too Many Requests,Bank Users 1-34,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,53,0,0
+1782834435686,48,05 - Logout,429,Too Many Requests,Bank Users 1-42,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,48,0,0
+1782834435465,417,01 - Home Page,429,Too Many Requests,Bank Users 1-44,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,417,0,293
+1782834435843,52,02 - Login,429,Too Many Requests,Bank Users 1-35,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,52,0,0
+1782834435933,54,02 - Login,429,Too Many Requests,Bank Users 1-37,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,54,0,0
+1782834435684,363,01 - Home Page,429,Too Many Requests,Bank Users 1-45,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,363,0,205
+1782834436106,164,05 - Logout,429,Too Many Requests,Bank Users 1-32,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,164,0,0
+1782834436356,56,02 - Login,429,Too Many Requests,Bank Users 1-38,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,56,0,0
+1782834436740,43,01 - Home Page,429,Too Many Requests,Bank Users 1-33,text,false,,472,114,15,15,https://parabank.parasoft.com/parabank/index.htm,43,0,0
+1782834436928,51,05 - Logout,429,Too Many Requests,Bank Users 1-43,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,51,0,0
+1782834436969,87,01 - Home Page,429,Too Many Requests,Bank Users 1-39,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,87,0,0
+1782834437062,69,05 - Logout,429,Too Many Requests,Bank Users 1-35,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,69,0,0
+1782834437210,130,02 - Login,429,Too Many Requests,Bank Users 1-44,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,130,0,0
+1782834437434,343,05 - Logout,429,Too Many Requests,Bank Users 1-34,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,343,0,0
+1782834437688,89,01 - Home Page,429,Too Many Requests,Bank Users 1-41,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,89,0,0
+1782834437462,315,01 - Home Page,429,Too Many Requests,Bank Users 1-36,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,315,0,0
+1782834437638,139,01 - Home Page,429,Too Many Requests,Bank Users 1-42,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,139,0,0
+1782834437744,152,01 - Home Page,429,Too Many Requests,Bank Users 1-46,text,false,,472,114,15,15,https://parabank.parasoft.com/parabank/index.htm,152,0,102
+1782834437875,47,02 - Login,429,Too Many Requests,Bank Users 1-40,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,47,0,0
+1782834437946,45,05 - Logout,429,Too Many Requests,Bank Users 1-37,text,false,,472,115,15,15,https://parabank.parasoft.com/parabank/logout.htm,45,0,0
+1782834438003,105,02 - Login,429,Too Many Requests,Bank Users 1-45,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,105,0,0
+1782834438057,52,05 - Logout,429,Too Many Requests,Bank Users 1-31,text,false,,472,115,15,15,https://parabank.parasoft.com/parabank/logout.htm,52,0,0
+1782834438204,46,01 - Home Page,429,Too Many Requests,Bank Users 1-35,text,false,,472,114,15,15,https://parabank.parasoft.com/parabank/index.htm,46,0,0
+1782834438256,311,01 - Home Page,200,OK,Bank Users 1-47,text,true,,6180,114,15,15,https://parabank.parasoft.com/parabank/index.htm,310,0,101
+1782834438583,45,02 - Login,429,Too Many Requests,Bank Users 1-33,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,45,0,0
+1782834438776,49,05 - Logout,429,Too Many Requests,Bank Users 1-44,text,false,,472,115,15,15,https://parabank.parasoft.com/parabank/logout.htm,49,0,0
+1782834438870,66,02 - Login,429,Too Many Requests,Bank Users 1-39,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,66,0,0
+1782834438938,47,05 - Logout,429,Too Many Requests,Bank Users 1-38,text,false,,472,115,15,15,https://parabank.parasoft.com/parabank/logout.htm,47,0,0
+1782834439168,46,02 - Login,429,Too Many Requests,Bank Users 1-36,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,45,0,0
+1782834439287,49,02 - Login,429,Too Many Requests,Bank Users 1-35,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,49,0,0
+1782834439481,49,01 - Home Page,429,Too Many Requests,Bank Users 1-43,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,49,0,0
+1782834439963,53,02 - Login,429,Too Many Requests,Bank Users 1-46,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,53,0,0
+1782834439867,163,01 - Home Page,429,Too Many Requests,Bank Users 1-48,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,163,0,105
+1782834440065,53,05 - Logout,429,Too Many Requests,Bank Users 1-45,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,53,0,0
+1782834440076,50,01 - Home Page,429,Too Many Requests,Bank Users 1-44,text,false,,472,114,16,16,https://parabank.parasoft.com/parabank/index.htm,50,0,0
+1782834440313,46,05 - Logout,429,Too Many Requests,Bank Users 1-40,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,46,0,0
+1782834440395,44,05 - Logout,429,Too Many Requests,Bank Users 1-33,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,44,0,0
+1782834440452,43,02 - Login,429,Too Many Requests,Bank Users 1-41,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,43,0,0
+1782834440478,55,01 - Home Page,429,Too Many Requests,Bank Users 1-38,text,false,,472,114,15,15,https://parabank.parasoft.com/parabank/index.htm,55,0,0
+1782834440482,51,01 - Home Page,429,Too Many Requests,Bank Users 1-37,text,false,,472,114,15,15,https://parabank.parasoft.com/parabank/index.htm,51,0,0
+1782834440654,54,02 - Login,429,Too Many Requests,Bank Users 1-42,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,54,0,0
+1782834440985,86,05 - Logout,429,Too Many Requests,Bank Users 1-39,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,86,0,0
+1782834441113,46,02 - Login,429,Too Many Requests,Bank Users 1-48,text,false,,472,226,16,16,https://parabank.parasoft.com/parabank/login.htm,46,0,0
+1782834441423,48,05 - Logout,429,Too Many Requests,Bank Users 1-46,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,48,0,0
+1782834441426,48,05 - Logout,429,Too Many Requests,Bank Users 1-35,text,false,,472,115,16,16,https://parabank.parasoft.com/parabank/logout.htm,48,0,0
+1782834440890,584,02 - Login,200,OK,Bank Users 1-47,text,true,,6493,449,16,16,https://parabank.parasoft.com/parabank/overview.htm,309,0,0
+1782834440890,309,02 - Login-0,302,Found,Bank Users 1-47,,true,,299,279,16,16,https://parabank.parasoft.com/parabank/login.htm,309,0,0
+1782834441199,275,02 - Login-1,200,OK,Bank Users 1-47,text,true,,6194,170,16,16,https://parabank.parasoft.com/parabank/overview.htm,273,0,0
+1782834441484,49,02 - Login,429,Too Many Requests,Bank Users 1-44,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,49,0,0
+1782834442078,48,01 - Home Page,429,Too Many Requests,Bank Users 1-40,text,false,,472,114,15,15,https://parabank.parasoft.com/parabank/index.htm,48,0,0
+1782834442107,49,02 - Login,429,Too Many Requests,Bank Users 1-43,text,false,,472,226,15,15,https://parabank.parasoft.com/parabank/login.htm,49,0,0
+1782834442157,48,05 - Logout,429,Too Many Requests,Bank Users 1-36,text,false,,472,115,15,15,https://parabank.parasoft.com/parabank/logout.htm,48,0,0
+1782834442012,310,01 - Home Page,200,OK,Bank Users 1-49,text,true,,6180,114,14,14,https://parabank.parasoft.com/parabank/index.htm,307,0,104
+1782834442283,44,02 - Login,429,Too Many Requests,Bank Users 1-38,text,false,,472,226,14,14,https://parabank.parasoft.com/parabank/login.htm,44,0,0
+1782834442469,48,02 - Login,429,Too Many Requests,Bank Users 1-37,text,false,,472,226,14,14,https://parabank.parasoft.com/parabank/login.htm,48,0,0
+1782834442586,47,05 - Logout,429,Too Many Requests,Bank Users 1-48,text,false,,472,115,14,14,https://parabank.parasoft.com/parabank/logout.htm,47,0,0
+1782834442828,45,05 - Logout,429,Too Many Requests,Bank Users 1-41,text,false,,472,115,14,14,https://parabank.parasoft.com/parabank/logout.htm,45,0,0
+1782834442870,56,01 - Home Page,429,Too Many Requests,Bank Users 1-39,text,false,,472,114,14,14,https://parabank.parasoft.com/parabank/index.htm,56,0,0
+1782834442802,145,01 - Home Page,429,Too Many Requests,Bank Users 1-50,text,false,,472,114,14,14,https://parabank.parasoft.com/parabank/index.htm,145,0,99
+1782834442907,56,01 - Home Page,429,Too Many Requests,Bank Users 1-45,text,false,,472,114,14,14,https://parabank.parasoft.com/parabank/index.htm,56,0,0
+1782834442709,424,05 - Logout,200,OK,Bank Users 1-47,text,true,,4994,349,14,14,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,217,0,0
+1782834442709,217,05 - Logout-0,302,Found,Bank Users 1-47,,true,,393,168,14,14,https://parabank.parasoft.com/parabank/logout.htm,217,0,0
+1782834442926,207,05 - Logout-1,200,OK,Bank Users 1-47,text,true,,4601,181,14,14,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,205,0,0
+1782834443364,46,05 - Logout,429,Too Many Requests,Bank Users 1-42,text,false,,472,115,14,14,https://parabank.parasoft.com/parabank/logout.htm,46,0,0
+1782834443493,51,05 - Logout,429,Too Many Requests,Bank Users 1-38,text,false,,472,115,14,14,https://parabank.parasoft.com/parabank/logout.htm,51,0,0
+1782834443806,53,05 - Logout,429,Too Many Requests,Bank Users 1-43,text,false,,472,115,13,13,https://parabank.parasoft.com/parabank/logout.htm,52,0,0
+1782834443966,50,05 - Logout,429,Too Many Requests,Bank Users 1-44,text,false,,472,115,13,13,https://parabank.parasoft.com/parabank/logout.htm,50,0,0
+1782834444119,50,01 - Home Page,429,Too Many Requests,Bank Users 1-46,text,false,,472,114,13,13,https://parabank.parasoft.com/parabank/index.htm,50,0,0
+1782834444419,44,05 - Logout,429,Too Many Requests,Bank Users 1-37,text,false,,472,115,13,13,https://parabank.parasoft.com/parabank/logout.htm,44,0,0
+1782834444082,540,02 - Login,200,OK,Bank Users 1-49,text,true,,6493,449,12,12,https://parabank.parasoft.com/parabank/overview.htm,268,0,0
+1782834444082,268,02 - Login-0,302,Found,Bank Users 1-49,,true,,299,279,12,12,https://parabank.parasoft.com/parabank/login.htm,268,0,0
+1782834444350,272,02 - Login-1,200,OK,Bank Users 1-49,text,true,,6194,170,12,12,https://parabank.parasoft.com/parabank/overview.htm,268,0,0
+1782834444586,44,01 - Home Page,429,Too Many Requests,Bank Users 1-48,text,false,,472,114,12,12,https://parabank.parasoft.com/parabank/index.htm,44,0,0
+1782834444563,209,01 - Home Page,200,OK,Bank Users 1-47,text,true,,6180,114,12,12,https://parabank.parasoft.com/parabank/index.htm,207,0,0
+1782834445058,45,02 - Login,429,Too Many Requests,Bank Users 1-50,text,false,,472,226,12,12,https://parabank.parasoft.com/parabank/login.htm,45,0,0
+1782834445090,46,02 - Login,429,Too Many Requests,Bank Users 1-40,text,false,,472,226,12,12,https://parabank.parasoft.com/parabank/login.htm,46,0,0
+1782834445528,43,01 - Home Page,429,Too Many Requests,Bank Users 1-41,text,false,,472,114,12,12,https://parabank.parasoft.com/parabank/index.htm,43,0,0
+1782834445616,142,02 - Login,429,Too Many Requests,Bank Users 1-39,text,false,,472,226,12,12,https://parabank.parasoft.com/parabank/login.htm,142,0,0
+1782834445670,131,02 - Login,429,Too Many Requests,Bank Users 1-45,text,false,,472,226,12,12,https://parabank.parasoft.com/parabank/login.htm,131,0,0
+1782834446052,46,01 - Home Page,429,Too Many Requests,Bank Users 1-42,text,false,,472,114,12,12,https://parabank.parasoft.com/parabank/index.htm,46,0,0
+1782834446137,45,02 - Login,429,Too Many Requests,Bank Users 1-46,text,false,,472,226,12,12,https://parabank.parasoft.com/parabank/login.htm,45,0,0
+1782834446281,162,01 - Home Page,429,Too Many Requests,Bank Users 1-44,text,false,,472,114,12,12,https://parabank.parasoft.com/parabank/index.htm,162,0,0
+1782834446519,50,01 - Home Page,429,Too Many Requests,Bank Users 1-43,text,false,,472,114,12,12,https://parabank.parasoft.com/parabank/index.htm,50,0,0
+1782834446261,399,05 - Logout,200,OK,Bank Users 1-49,text,true,,4994,349,12,12,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,196,0,0
+1782834446261,196,05 - Logout-0,302,Found,Bank Users 1-49,,true,,393,168,12,12,https://parabank.parasoft.com/parabank/logout.htm,196,0,0
+1782834446457,203,05 - Logout-1,200,OK,Bank Users 1-49,text,true,,4601,181,12,12,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,202,0,0
+1782834446221,547,02 - Login,200,OK,Bank Users 1-47,text,true,,6493,449,12,12,https://parabank.parasoft.com/parabank/overview.htm,268,0,0
+1782834446221,268,02 - Login-0,302,Found,Bank Users 1-47,,true,,299,279,12,12,https://parabank.parasoft.com/parabank/login.htm,268,0,0
+1782834446489,279,02 - Login-1,200,OK,Bank Users 1-47,text,true,,6194,170,12,12,https://parabank.parasoft.com/parabank/overview.htm,279,0,0
+1782834447009,44,02 - Login,429,Too Many Requests,Bank Users 1-41,text,false,,472,226,12,12,https://parabank.parasoft.com/parabank/login.htm,44,0,0
+1782834447219,43,05 - Logout,429,Too Many Requests,Bank Users 1-40,text,false,,472,115,12,12,https://parabank.parasoft.com/parabank/logout.htm,43,0,0
+1782834447333,134,02 - Login,429,Too Many Requests,Bank Users 1-48,text,false,,472,226,11,11,https://parabank.parasoft.com/parabank/login.htm,134,0,0
+1782834447327,231,05 - Logout,429,Too Many Requests,Bank Users 1-39,text,false,,472,115,11,11,https://parabank.parasoft.com/parabank/logout.htm,231,0,0
+1782834447539,237,05 - Logout,429,Too Many Requests,Bank Users 1-45,text,false,,472,115,10,10,https://parabank.parasoft.com/parabank/logout.htm,237,0,0
+1782834447907,97,05 - Logout,429,Too Many Requests,Bank Users 1-46,text,false,,472,115,10,10,https://parabank.parasoft.com/parabank/logout.htm,97,0,0
+1782834448022,42,05 - Logout,429,Too Many Requests,Bank Users 1-50,text,false,,472,115,10,10,https://parabank.parasoft.com/parabank/logout.htm,42,0,0
+1782834448228,48,02 - Login,429,Too Many Requests,Bank Users 1-42,text,false,,472,226,10,10,https://parabank.parasoft.com/parabank/login.htm,48,0,0
+1782834448456,191,02 - Login,429,Too Many Requests,Bank Users 1-44,text,false,,472,226,10,10,https://parabank.parasoft.com/parabank/login.htm,191,0,0
+1782834448110,538,05 - Logout,200,OK,Bank Users 1-47,text,true,,4994,349,10,10,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,273,0,0
+1782834448110,273,05 - Logout-0,302,Found,Bank Users 1-47,,true,,393,168,10,10,https://parabank.parasoft.com/parabank/logout.htm,273,0,0
+1782834448383,265,05 - Logout-1,200,OK,Bank Users 1-47,text,true,,4601,181,10,10,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,265,0,0
+1782834448544,141,05 - Logout,429,Too Many Requests,Bank Users 1-41,text,false,,472,115,10,10,https://parabank.parasoft.com/parabank/logout.htm,141,0,0
+1782834448621,223,01 - Home Page,200,OK,Bank Users 1-49,text,true,,6180,114,9,9,https://parabank.parasoft.com/parabank/index.htm,221,0,0
+1782834449426,49,02 - Login,429,Too Many Requests,Bank Users 1-43,text,false,,472,226,9,9,https://parabank.parasoft.com/parabank/login.htm,49,0,0
+1782834449554,44,01 - Home Page,429,Too Many Requests,Bank Users 1-46,text,false,,472,114,9,9,https://parabank.parasoft.com/parabank/index.htm,44,0,0
+1782834449580,63,01 - Home Page,429,Too Many Requests,Bank Users 1-45,text,false,,472,114,9,9,https://parabank.parasoft.com/parabank/index.htm,63,0,0
+1782834449825,51,05 - Logout,429,Too Many Requests,Bank Users 1-44,text,false,,472,115,9,9,https://parabank.parasoft.com/parabank/logout.htm,51,0,0
+1782834450117,44,05 - Logout,429,Too Many Requests,Bank Users 1-48,text,false,,472,115,8,8,https://parabank.parasoft.com/parabank/logout.htm,44,0,0
+1782834450123,46,01 - Home Page,429,Too Many Requests,Bank Users 1-50,text,false,,472,114,8,8,https://parabank.parasoft.com/parabank/index.htm,46,0,0
+1782834450691,210,01 - Home Page,200,OK,Bank Users 1-47,text,true,,6180,114,8,8,https://parabank.parasoft.com/parabank/index.htm,210,0,0
+1782834451204,45,05 - Logout,429,Too Many Requests,Bank Users 1-42,text,false,,472,115,8,8,https://parabank.parasoft.com/parabank/logout.htm,45,0,0
+1782834451561,45,02 - Login,429,Too Many Requests,Bank Users 1-46,text,false,,472,226,7,7,https://parabank.parasoft.com/parabank/login.htm,45,0,0
+1782834451624,49,05 - Logout,429,Too Many Requests,Bank Users 1-43,text,false,,472,115,7,7,https://parabank.parasoft.com/parabank/logout.htm,49,0,0
+1782834451779,54,02 - Login,429,Too Many Requests,Bank Users 1-45,text,false,,472,226,6,6,https://parabank.parasoft.com/parabank/login.htm,54,0,0
+1782834451275,602,02 - Login,200,OK,Bank Users 1-49,text,true,,6493,449,6,6,https://parabank.parasoft.com/parabank/overview.htm,303,0,0
+1782834451275,303,02 - Login-0,302,Found,Bank Users 1-49,,true,,299,279,6,6,https://parabank.parasoft.com/parabank/login.htm,303,0,0
+1782834451578,299,02 - Login-1,200,OK,Bank Users 1-49,text,true,,6194,170,6,6,https://parabank.parasoft.com/parabank/overview.htm,299,0,0
+1782834452236,86,02 - Login,429,Too Many Requests,Bank Users 1-50,text,false,,472,226,6,6,https://parabank.parasoft.com/parabank/login.htm,86,0,0
+1782834452628,50,05 - Logout,429,Too Many Requests,Bank Users 1-46,text,false,,472,115,6,6,https://parabank.parasoft.com/parabank/logout.htm,50,0,0
+1782834452748,44,01 - Home Page,429,Too Many Requests,Bank Users 1-48,text,false,,472,114,5,5,https://parabank.parasoft.com/parabank/index.htm,44,0,0
+1782834453697,50,05 - Logout,429,Too Many Requests,Bank Users 1-50,text,false,,472,115,5,5,https://parabank.parasoft.com/parabank/logout.htm,50,0,0
+1782834453927,52,05 - Logout,429,Too Many Requests,Bank Users 1-45,text,false,,472,115,5,5,https://parabank.parasoft.com/parabank/logout.htm,52,0,0
+1782834453757,853,02 - Login,200,OK,Bank Users 1-47,text,true,,6493,449,4,4,https://parabank.parasoft.com/parabank/overview.htm,268,0,0
+1782834453757,268,02 - Login-0,302,Found,Bank Users 1-47,,true,,299,279,4,4,https://parabank.parasoft.com/parabank/login.htm,268,0,0
+1782834454025,585,02 - Login-1,200,OK,Bank Users 1-47,text,true,,6194,170,4,4,https://parabank.parasoft.com/parabank/overview.htm,584,0,0
+1782834454281,529,05 - Logout,200,OK,Bank Users 1-49,text,true,,4999,349,4,4,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,328,0,0
+1782834454281,328,05 - Logout-0,302,Found,Bank Users 1-49,,true,,393,168,4,4,https://parabank.parasoft.com/parabank/logout.htm,328,0,0
+1782834454610,200,05 - Logout-1,200,OK,Bank Users 1-49,text,true,,4606,181,4,4,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,198,0,0
+1782834454958,44,01 - Home Page,429,Too Many Requests,Bank Users 1-50,text,false,,472,114,4,4,https://parabank.parasoft.com/parabank/index.htm,44,0,0
+1782834455356,50,02 - Login,429,Too Many Requests,Bank Users 1-48,text,false,,472,226,4,4,https://parabank.parasoft.com/parabank/login.htm,50,0,0
+1782834457004,49,02 - Login,429,Too Many Requests,Bank Users 1-50,text,false,,472,226,4,4,https://parabank.parasoft.com/parabank/login.htm,49,0,0
+1782834456913,207,01 - Home Page,200,OK,Bank Users 1-49,text,true,,6180,114,4,4,https://parabank.parasoft.com/parabank/index.htm,203,0,0
+1782834457479,398,05 - Logout,200,OK,Bank Users 1-47,text,true,,4994,349,4,4,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,196,0,0
+1782834457479,196,05 - Logout-0,302,Found,Bank Users 1-47,,true,,393,168,4,4,https://parabank.parasoft.com/parabank/logout.htm,196,0,0
+1782834457676,201,05 - Logout-1,200,OK,Bank Users 1-47,text,true,,4601,181,4,4,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,201,0,0
+1782834457942,44,05 - Logout,429,Too Many Requests,Bank Users 1-48,text,false,,472,115,3,3,https://parabank.parasoft.com/parabank/logout.htm,44,0,0
+1782834458220,550,02 - Login,200,OK,Bank Users 1-49,text,true,,6493,449,2,2,https://parabank.parasoft.com/parabank/overview.htm,266,0,0
+1782834458220,266,02 - Login-0,302,Found,Bank Users 1-49,,true,,299,279,2,2,https://parabank.parasoft.com/parabank/login.htm,266,0,0
+1782834458486,284,02 - Login-1,200,OK,Bank Users 1-49,text,true,,6194,170,2,2,https://parabank.parasoft.com/parabank/overview.htm,284,0,0
+1782834459099,44,05 - Logout,429,Too Many Requests,Bank Users 1-50,text,false,,472,115,2,2,https://parabank.parasoft.com/parabank/logout.htm,44,0,0
+1782834461539,410,05 - Logout,200,OK,Bank Users 1-49,text,true,,4994,349,1,1,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,200,0,0
+1782834461539,200,05 - Logout-0,302,Found,Bank Users 1-49,,true,,393,168,1,1,https://parabank.parasoft.com/parabank/logout.htm,200,0,0
+1782834461740,209,05 - Logout-1,200,OK,Bank Users 1-49,text,true,,4601,181,1,1,https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC,209,0,0
