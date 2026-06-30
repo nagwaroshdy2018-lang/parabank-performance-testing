@@ -13,3 +13,7 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+# Extra local/old test files
+Parabank Performance Test/
+test-plans/parabank-baseline.jmx
+test-plans/parabank-performance-project.jmx
