@@ -1,0 +1,62 @@
+name: JMeter Performance Tests
+
+on:
+  workflow_dispatch:
+    inputs:
+      test_type:
+        description: "Choose which test to run"
+        required: true
+        default: "load"
+        type: choice
+        options:
+          - load
+          - stress
+
+jobs:
+  jmeter-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Download Apache JMeter
+        run: |
+          wget https://archive.apache.org/dist/jmeter/binaries/apache-jmeter-5.6.3.tgz
+          tar -xzf apache-jmeter-5.6.3.tgz
+          echo "$PWD/apache-jmeter-5.6.3/bin" >> $GITHUB_PATH
+
+      - name: Prepare output folders
+        run: |
+          mkdir -p results
+          mkdir -p reports
+
+      - name: Run Load Test
+        if: ${{ github.event.inputs.test_type == 'load' }}
+        run: |
+          jmeter -n \
+            -t test-plans/parabank-load-test.jmx \
+            -l results/load-results.jtl \
+            -e -o reports/load-report
+
+      - name: Run Stress Test
+        if: ${{ github.event.inputs.test_type == 'stress' }}
+        run: |
+          jmeter -n \
+            -t test-plans/parabank-stress-test.jmx \
+            -l results/stress-results.jtl \
+            -e -o reports/stress-report
+
+      - name: Upload JMeter Results
+        uses: actions/upload-artifact@v4
+        with:
+          name: jmeter-${{ github.event.inputs.test_type }}-results
+          path: |
+            results/
+            reports/
